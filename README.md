@@ -205,11 +205,11 @@ The project includes functions for reproducing results:
 - **Multiple Patterns**: Supports aspect-opinion and opinion-aspect patterns
 
 
-## 🔗 Related Work
+## Related Work
 
 This implementation is inspired by:
-- STAGE model - Span-based Tagging for Aspect-sentiment Triplet Extraction ([GitHub](https://github.com/CCIIPLab/STAGE.git))
-- ASTE-Data-V2 (EMNLP 2020) - Original English dataset and methodology
+- STAGE model - Span-based Tagging for Aspect-sentiment Triplet Extraction ([Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26547), [GitHub](https://github.com/CCIIPLab/STAGE.git))
+- ASTE-Data-V2 (EMNLP 2020) - Original English dataset ([GitHub](https://github.com/xuuuluuu/SemEval-Triplet-data))
 - AraBERT - Arabic BERT pre-trained model
 - Span-based tagging approaches for structured prediction
 
