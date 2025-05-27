@@ -29,8 +29,8 @@ The model consists of three main components:
 
 ```
 AASTE-Arabic-Aspect-Sentiment-Triplet-Extraction/
-├── model.py                    # Main BERT-based ASTE model
-├── run.py                      # Training and evaluation pipeline
+├── model.py                   # Main BERT-based ASTE model
+├── run.py                     # Training and evaluation pipeline
 ├── ASTE_dataloader.py         # Data loading and preprocessing
 ├── evaluate.py                # Evaluation metrics and functions
 ├── predict.py                 # Inference script for predictions
