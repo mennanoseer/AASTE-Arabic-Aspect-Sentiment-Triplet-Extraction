@@ -7,6 +7,9 @@ import numpy as np
 import json
 from datetime import datetime
 
+# Set TensorFlow environment variables to suppress oneDNN warnings
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
+
 from transformers import AutoTokenizer
 from torch.utils.data import DataLoader
 
@@ -319,7 +322,10 @@ def get_parameters():
             # Loss function parameters
             self.with_weight = False
             self.span_average = False
-    
+        def __str__(self):
+            """String representation of the arguments object as a dictionary"""
+            params_dict = vars(self)
+            return str(params_dict)
     return Args()
 
 
@@ -464,11 +470,11 @@ def random_search(n_trials=20):
     for trial in range(1, n_trials + 1):
         # Sample hyperparameters
         config = {
-            'seed': random.randint(1, 10000),
+            'seed': random.randint(1, 1000),
             'hidden_dim': random.choice([100, 150, 200, 250, 300]),
-            'num_epoch': random.choice([50, 75, 100, 120]),
-            'batch_size': random.choice([8, 16, 32]),
-            'dropout_rate': random.uniform(0.1, 0.7),
+            'num_epoch': random.choice([50, 65, 75, 100]),
+            'batch_size': random.choice([16, 32,64]),
+            'dropout_rate': random.choice([0.2,0.25,0.3,0.35,0.4,0.5]),
             'lr': 10 ** random.uniform(-4, -2),  # Log scale between 1e-4 and 1e-2
         }
         
