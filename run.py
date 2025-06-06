@@ -470,12 +470,14 @@ def random_search(n_trials=20):
     for trial in range(1, n_trials + 1):
         # Sample hyperparameters
         config = {
-            'seed': random.randint(1, 1000),
-            'hidden_dim': random.choice([100, 150, 200, 250, 300]),
-            'num_epoch': random.choice([50, 65, 75, 100]),
-            'batch_size': random.choice([16, 32,64]),
-            'dropout_rate': random.choice([0.2,0.25,0.3,0.35,0.4,0.5]),
-            'lr': 10 ** random.uniform(-4, -2),  # Log scale between 1e-4 and 1e-2
+            'seed': random.choice([432,46]),
+            'hidden_dim': random.choice([200, 250, 300, 350]),
+            'num_epoch': random.choice([75,80,85,90,95,100]),
+            'batch_size': random.choice([16,32,64]),
+            'dropout_rate': random.choice([0.25,0.3,0.35,0.4]),
+            'lr': random.uniform(0.0015, 0.0021),  # Log scale between 1e-4 and 1e-2
+            'with_weight': random.choice([True, False]),
+            'span_average': random.choice([True, False]),
         }
         
         # Set up arguments
