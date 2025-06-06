@@ -4,6 +4,8 @@ import torch
 import random
 import argparse
 import numpy as np
+import json
+from datetime import datetime
 
 from transformers import AutoTokenizer
 from torch.utils.data import DataLoader
@@ -429,8 +431,121 @@ def for_reproduce_average_results():
             print('{}\t{}\t{}\t{:.2f}%'.format(dataset, version, i, r['f1'] * 100))
 
 
+def random_search(n_trials=20):
+    """
+    Run random search for hyperparameter optimization on the 3D version of the model.
+    
+    The function randomly samples hyperparameters from predefined ranges and runs
+    experiments, tracking the best configuration based on F1 score.
+    
+    Args:
+        n_trials (int): Number of random trials to run
+        
+    Returns:
+        dict: Best configuration and its results
+    """
+    from model import base_model
+    
+    # Initialize storage for results
+    results = []
+    best_f1 = 0.0
+    best_config = None
+    best_result = None
+    
+    # Create a timestamp for saving results
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    results_dir = "random_search_results"
+    ensure_dir(results_dir)
+    results_file = os.path.join(results_dir, f"random_search_{timestamp}.json")
+    
+    print(f"Starting random search with {n_trials} trials...")
+    print(f"Results will be saved to {results_file}")
+    
+    for trial in range(1, n_trials + 1):
+        # Sample hyperparameters
+        config = {
+            'seed': random.randint(1, 10000),
+            'hidden_dim': random.choice([100, 150, 200, 250, 300]),
+            'num_epoch': random.choice([50, 75, 100, 120]),
+            'batch_size': random.choice([8, 16, 32]),
+            'dropout_rate': random.uniform(0.1, 0.7),
+            'lr': 10 ** random.uniform(-4, -2),  # Log scale between 1e-4 and 1e-2
+        }
+        
+        # Set up arguments
+        args = get_parameters()
+        args.version = '3D'  # Fix version to 3D as required
+        args.with_weight = True
+        
+        # Apply sampled configuration
+        args.seed = config['seed']
+        args.hidden_dim = config['hidden_dim']
+        args.num_epoch = config['num_epoch']
+        args.batch_size = config['batch_size']
+        args.dropout_rate = config['dropout_rate']
+        args.lr = config['lr']
+        
+        print("\n" + "="*80)
+        print(f"Trial {trial}/{n_trials}")
+        print(f"Configuration: {json.dumps(config, indent=2)}")
+        print("="*80 + "\n")
+        
+        # Run training and evaluation with current config
+        test_results = train_and_evaluate(base_model, args)
+        f1_score = test_results[0]['triplet']['f1']
+        
+        # Store results
+        trial_result = {
+            'config': config,
+            'f1': f1_score,
+            'precision': test_results[0]['triplet']['precision'],
+            'recall': test_results[0]['triplet']['recall']
+        }
+        results.append(trial_result)
+        
+        # Update best configuration if needed
+        if f1_score > best_f1:
+            best_f1 = f1_score
+            best_config = config
+            best_result = trial_result
+            print(f"\n**** New best F1: {best_f1*100:.2f}% ****\n")
+        
+        # Save intermediate results after each trial
+        with open(results_file, 'w') as f:
+            json.dump({
+                'all_results': results,
+                'best_result': best_result,
+                'best_config': best_config,
+                'best_f1': best_f1,
+                'completed_trials': trial,
+                'total_trials': n_trials
+            }, f, indent=4)
+    
+    # Print final best configuration and results
+    print("\n" + "="*40 + " RANDOM SEARCH COMPLETED " + "="*40)
+    print(f"Best F1 Score: {best_f1*100:.2f}%")
+    print(f"Best Configuration: {json.dumps(best_config, indent=2)}")
+    print(f"Full results saved to {results_file}")
+    
+    return best_result
+
+
 if __name__ == '__main__':
-    # Uncomment one of the following lines to run different experiment modes
-    # run()  # Run a single experiment
-    for_reproduce_best_results()  # Run experiments with best seeds
-    # for_reproduce_average_results()  # Run 5 experiments for each configuration
+    # Get command line arguments
+    parser = argparse.ArgumentParser(description='Run ASTE experiments')
+    parser.add_argument('--mode', type=str, default='single', 
+                        choices=['single', 'best', 'average', 'random_search'],
+                        help='Mode to run: single experiment, best results reproduction, average results, or random search')
+    parser.add_argument('--trials', type=int, default=20,
+                        help='Number of trials for random search')
+    cmd_args = parser.parse_args()
+    
+    if cmd_args.mode == 'single':
+        run()  # Run a single experiment
+    elif cmd_args.mode == 'best':
+        for_reproduce_best_results()  # Run experiments with best seeds
+    elif cmd_args.mode == 'average':
+        for_reproduce_average_results()  # Run 5 experiments for each configuration
+    elif cmd_args.mode == 'random_search':
+        random_search(n_trials=cmd_args.trials)  # Run random search
+    # random_search()  # Run random search for hyperparameter optimization
