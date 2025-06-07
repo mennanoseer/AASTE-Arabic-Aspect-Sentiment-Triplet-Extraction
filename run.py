@@ -7,9 +7,6 @@ import numpy as np
 import json
 from datetime import datetime
 
-# Set TensorFlow environment variables to suppress oneDNN warnings
-os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
-
 from transformers import AutoTokenizer
 from torch.utils.data import DataLoader
 
@@ -288,45 +285,42 @@ def get_parameters():
     Parse command line arguments.
     
     Returns:
-        argparse.Namespace: Parsed arguments with default values (no command line parsing)
+        argparse.Namespace: Parsed arguments
     """
-    # Create an object to hold parameter values without parsing command line
-    class Args:
-        def __init__(self):
-            # Path parameters
-            self.device = 'cuda'
-            self.dataset_dir = 'data/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC'
-            self.saved_dir = 'saved_models'
-            self.saved_file = None
-            self.pretrained_model = 'aubmindlab/bert-base-arabertv2'
-            self.dataset = '16res'
-            
-            # Model version parameter
-            self.version = '3D'
-            
-            # Random seed
-            self.seed = 64
-            
-            # Model hyperparameters
-            self.hidden_dim = 200
-            self.num_epoch = 100
-            self.batch_size = 16
-            
-            # Optimization hyperparameters
-            self.lr = 1e-3
-            self.bert_lr = 2e-5
-            self.l2 = 0.0
-            self.dropout_rate = 0.5
-            self.adam_epsilon = 1e-8
-            
-            # Loss function parameters
-            self.with_weight = False
-            self.span_average = False
-        def __str__(self):
-            """String representation of the arguments object as a dictionary"""
-            params_dict = vars(self)
-            return str(params_dict)
-    return Args()
+    parser = argparse.ArgumentParser()
+    # Path parameters
+    parser.add_argument('--device', type=str, default='cuda')
+    parser.add_argument('--dataset_dir', type=str, default='./data/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC')
+    parser.add_argument('--saved_dir', type=str, default='saved_models')
+    parser.add_argument('--saved_file', type=str, default=None)
+    parser.add_argument('--pretrained_model', type=str, default='aubmindlab/bert-base-arabertv2')
+    parser.add_argument('--dataset', type=str, default='16res')
+    
+    # Model version parameter
+    parser.add_argument('--version', type=str, default='3D', choices=['3D', '2D', '1D'])
+    
+    # Random seed
+    parser.add_argument('--seed', type=int, default=64)
+    
+    # Model hyperparameters
+    parser.add_argument('--hidden_dim', type=int, default=250)
+    parser.add_argument('--num_epoch', type=int, default=100)
+    parser.add_argument('--batch_size', type=int, default=16)
+    
+    # Optimization hyperparameters
+    parser.add_argument('--lr', type=float, default=0.001847)
+    parser.add_argument('--bert_lr', type=float, default=2e-5)
+    parser.add_argument('--l2', type=float, default=0.0)
+    parser.add_argument('--dropout_rate', type=float, default=0.3)
+    parser.add_argument('--adam_epsilon', default=1e-8, type=float, help="Epsilon for Adam optimizer.")
+    
+    # Loss function parameters
+    parser.add_argument('--with_weight', default=False, action='store_true')
+    parser.add_argument('--span_average', default=False, action='store_true')
+    
+    args = parser.parse_args()
+    
+    return args
 
 
 def show_results(saved_results):
@@ -366,11 +360,11 @@ def for_reproduce_best_results():
     # Dictionary mapping dataset-version-weighted configurations to their best seed values
     seed_list_dict = {
 
-        '16res-3D-True': 1024,
+        '16res-3D-True': 432,
 
-        '16res-2D-True': 63,
+        '16res-2D-True': 432,
 
-        '16res-1D-True': 270
+        '16res-1D-True': 432
     }
     
     saved_results = {}
@@ -539,41 +533,9 @@ def random_search(n_trials=20):
 
 
 if __name__ == '__main__':
-    # Get command line arguments
-    parser = argparse.ArgumentParser(description='Run ASTE experiments')
-    parser.add_argument('--device', type=str, default='cuda')
-    parser.add_argument('--dataset_dir', type=str, default='data/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC')
-    parser.add_argument('--saved_dir', type=str, default='saved_models')
-    parser.add_argument('--saved_file', type=str, default=None)
-    parser.add_argument('--pretrained_model', type=str, default='aubmindlab/bert-base-arabertv2')
-    parser.add_argument('--dataset', type=str, default='16res')
-    parser.add_argument('--version', type=str, default='3D', choices=['3D', '2D', '1D'])
-    parser.add_argument('--seed', type=int, default=64)
-    parser.add_argument('--hidden_dim', type=int, default=200)
-    parser.add_argument('--num_epoch', type=int, default=100)
-    parser.add_argument('--batch_size', type=int, default=16)
-    parser.add_argument('--lr', type=float, default=1e-3)
-    parser.add_argument('--bert_lr', type=float, default=2e-5)
-    parser.add_argument('--l2', type=float, default=0.0)
-    parser.add_argument('--dropout_rate', type=float, default=0.5)
-    parser.add_argument('--adam_epsilon', default=1e-8, type=float, help="Epsilon for Adam optimizer.")
-    parser.add_argument('--with_weight', default=False, action='store_true')
-    parser.add_argument('--span_average', default=False, action='store_true')
-    
-    # Add mode and trials arguments
-    parser.add_argument('--mode', type=str, default='single', 
-                        choices=['single', 'best', 'average', 'random_search'],
-                        help='Mode to run: single experiment, best results reproduction, average results, or random search')
-    parser.add_argument('--trials', type=int, default=20,
-                        help='Number of trials for random search')
-    
-    args = parser.parse_args()
-    
-    if args.mode == 'single':
-        run()  # Run a single experiment
-    elif args.mode == 'best':
-        for_reproduce_best_results()  # Run experiments with best seeds
-    elif args.mode == 'average':
-        for_reproduce_average_results()  # Run 5 experiments for each configuration
-    elif args.mode == 'random_search':
-        random_search(n_trials=args.trials)  # Run random search
+    # Uncomment one of the following lines to run different experiment modes
+    # run()  # Run a single experiment
+    for_reproduce_best_results()  # Run experiments with best seeds
+    # for_reproduce_average_results()  # Run 5 experiments for each configuration
+    # random_search(n_trials=20)  # Run random search for hyperparameter optimization
+    # random_search()  # Run random search for hyperparameter optimization
