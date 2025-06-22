@@ -85,7 +85,7 @@ def train_and_evaluate(model_func, args, save_specific=False):
     dataset_dir = args.dataset_dir + '/' + args.dataset
     saved_dir = args.saved_dir + '/' + args.dataset
     ensure_dir(saved_dir)
-     
+    
     # Load vocabulary and prepare mapping dictionaries
     vocab = load_vocab(dataset_dir=dataset_dir)
     label2id, id2label = form_label_id_map(args.version)
@@ -538,4 +538,3 @@ if __name__ == '__main__':
     for_reproduce_best_results()  # Run experiments with best seeds
     # for_reproduce_average_results()  # Run 5 experiments for each configuration
     # random_search(n_trials=20)  # Run random search for hyperparameter optimization
-    # random_search()  # Run random search for hyperparameter optimization
