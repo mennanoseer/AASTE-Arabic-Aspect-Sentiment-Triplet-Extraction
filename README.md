@@ -29,24 +29,46 @@ The model consists of three main components:
 
 ```
 AASTE-Arabic-Aspect-Sentiment-Triplet-Extraction/
-├── model.py                   # Main BERT-based ASTE model
-├── run.py                     # Training and evaluation pipeline
-├── ASTE_dataloader.py         # Data loading and preprocessing
-├── evaluate.py                # Evaluation metrics and functions
-├── predict.py                 # Inference script for predictions
-├── vocab.py                   # Vocabulary management
-├── inference.ipynb            # Interactive inference notebook
+├── models/                    # Model architecture
+│   ├── __init__.py
+│   └── aste_model.py         # Main BERT-based ASTE model
+├── data/                      # Data loading and processing
+│   ├── __init__.py
+│   ├── dataset.py            # Dataset class and data loading
+│   ├── vocab.py              # Vocabulary management
+│   └── data_utils.py         # Data utilities and preprocessing
+├── tagging/                   # Tagging schemes and inference
+│   ├── __init__.py
+│   ├── span_tagging.py       # Tagging scheme implementations
+│   └── inference.py          # Greedy inference algorithm
+├── training/                  # Training and evaluation
+│   ├── __init__.py
+│   ├── evaluate.py           # Evaluation metrics and functions
+│   └── training_utils.py     # Training utilities
+├── utils/                     # Utilities and configuration
+│   ├── __init__.py
+│   ├── config.py             # Argument parsing and configuration
+│   └── helpers.py            # General helper functions
+├── scripts/                   # Executable scripts
+│   ├── run.py                # Training and evaluation pipeline
+│   └── predict.py            # Inference script for predictions
+├── notebooks/                 # Jupyter notebooks
+│   ├── inference.ipynb       # Interactive inference notebook
+│   ├── DataValidation.ipynb  # Data validation
+│   └── spanTaggingExample.ipynb  # Span tagging examples
+├── datasets/                  # Dataset files
+│   └── ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/
+│       └── 16res/
+│           ├── train_triplets.txt    # Training dataset
+│           ├── dev_triplets.txt      # Validation dataset
+│           └── test_triplets.txt     # Test dataset
+├── outputs/                   # Model outputs and results
+│   ├── models/               # Saved model checkpoints
+│   ├── best_models/          # Best performing models
+│   └── results/              # Experiment results
 ├── requirements.txt           # Dependencies
 ├── LICENSE                    # MIT License
-├── scheme/
-│   ├── span_tagging.py        # Tagging scheme implementations
-│   └── greedy_inference.py    # Greedy inference algorithm
-└── data/
-    └── ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/
-        └── 16res/
-            ├── test_triplets.txt              # Test dataset
-            ├── train_triplets.txt             # Train datset
-            └── dev_triplets.txt               # Validation dataset
+└── README.md                  # This file
 
 ```
 
@@ -67,19 +89,19 @@ pip install -r requirements.txt
 
 Run training with default parameters:
 ```bash
-python run.py
+python scripts/run.py
 ```
 
 Or with custom parameters:
 ```bash
-python run.py --dataset 16res --version 3D --hidden_dim 200 --num_epoch 100 --batch_size 16 --lr 1e-3 --bert_lr 2e-5
+python scripts/run.py --dataset 16res --version 3D --hidden_dim 200 --num_epoch 100 --batch_size 16 --lr 1e-3 --bert_lr 2e-5
 ```
 
 ### Evaluation
 
 Evaluate a trained model:
 ```bash
-python predict.py
+python scripts/predict.py --load_model_path outputs/models/your_model.pt
 ```
 
 ### Interactive Inference
@@ -96,17 +118,18 @@ For programmatic inference, you can use the model directly:
 ```python
 import torch
 from transformers import AutoTokenizer
-from model import base_model
-from ASTE_dataloader import load_vocab
-from scheme.span_tagging import form_label_id_map, form_sentiment_id_map
+from models.aste_model import base_model
+from data.vocab import load_vocab
+from tagging.span_tagging import form_label_id_map, form_sentiment_id_map
+from tagging.inference import extract_triplets_from_tags
 
 # Load model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained('aubmindlab/bert-base-arabertv2')
-model = torch.load('saved_models/16res/16res_3D_True_best.pkl')
+model = torch.load('outputs/best_models/16res_3D_True_best.pkl')
 
 # Process Arabic text
 sentence = "يقدم سوشي جيد حقا"
-# ... preprocessing code (see inference.ipynb for complete example)
+# ... preprocessing code (see notebooks/inference.ipynb for complete example)
 ```
 
 ## Data Format
@@ -181,13 +204,13 @@ The model is evaluated on:
 - **Aspect-Opinion Pair Extraction**: F1 for aspect-opinion pairs
 - **Triplet Extraction**: F1 for complete (aspect, opinion, sentiment) triplets
 
-### Reproducibility
-
-The project includes functions for reproducing results:
-- `for_reproduce_best_results()`: Run with best seeds for each configuration
-- `for_reproduce_average_results()`: Run multiple experiments for statistical significance
-
 ## Key Features
+
+### Modular Architecture
+- **Organized Code Structure**: Clean separation of concerns with dedicated modules
+- **Package-based Design**: Proper Python packages with `__init__.py` files
+- **Easy to Extend**: Modular components make it simple to add new features
+- **Well-Documented**: Comprehensive docstrings and documentation files
 
 ### Arabic Text Processing
 - **Arabic Normalization**: Handles different Arabic character forms, diacritics removal
@@ -236,7 +259,7 @@ For questions or issues, please open an issue on GitHub or contact the maintaine
 ### Common Issues
 
 1. **CUDA out of memory**: Reduce batch size (`--batch_size 8`)
-2. **Missing data files**: Ensure train_triplets.txt and dev_triplets.txt exist (see Data Preparation section)
+2. **Missing data files**: Ensure train_triplets.txt and dev_triplets.txt exist in `datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/16res/`
 3. **Tokenizer issues**: Verify AraBERT model is correctly downloaded
 4. **Performance issues**: Try different seeds or adjust learning rates
 
