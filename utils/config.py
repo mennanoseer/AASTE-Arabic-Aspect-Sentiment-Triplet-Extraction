@@ -57,6 +57,12 @@ def get_training_args():
     parser.add_argument('--with_weight', default=False, action='store_true',
                        help='Use class weights for handling class imbalance')
     
+    # Inference configuration
+    parser.add_argument('--use_beam_search', default=False, action='store_true',
+                       help='Use beam search instead of greedy inference for triplet extraction')
+    parser.add_argument('--beam_size', type=int, default=5,
+                       help='Beam size for beam search (only used if use_beam_search is True)')
+    
     args = parser.parse_args()
     return args
 
@@ -92,6 +98,12 @@ def get_prediction_args():
                        help='Batch size for evaluation')
     parser.add_argument('--device', type=str, default='cuda',
                        help='Device to use for prediction (cuda or cpu)')
+    
+    # Inference configuration
+    parser.add_argument('--use_beam_search', default=False, action='store_true',
+                       help='Use beam search instead of greedy inference for triplet extraction')
+    parser.add_argument('--beam_size', type=int, default=5,
+                       help='Beam size for beam search (only used if use_beam_search is True)')
     
     args = parser.parse_args()
     return args

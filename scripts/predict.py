@@ -43,7 +43,9 @@ def predict_from_args(args: argparse.Namespace) -> Tuple:
         batch_size=args.batch_size,
         device=args.device,
         pretrained_model=args.pretrained_model,
-        dataset_dir=args.dataset_dir
+        dataset_dir=args.dataset_dir,
+        use_beam_search=args.use_beam_search,
+        beam_size=args.beam_size
     )
 
 
@@ -55,7 +57,9 @@ def predict(
     batch_size: int = 16,
     device: str = 'cuda',
     pretrained_model: str = 'aubmindlab/bert-base-arabertv2',
-    dataset_dir: str = './datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC'
+    dataset_dir: str = './datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC',
+    use_beam_search: bool = False,
+    beam_size: int = 5
 ) -> Tuple:
     """
     Load a trained model and evaluate it on test data.
@@ -69,6 +73,8 @@ def predict(
         device: Device to run prediction on ('cuda' or 'cpu')
         pretrained_model: Name or path of pretrained BERT model
         dataset_dir: Base directory containing dataset folders
+        use_beam_search: Whether to use beam search for inference
+        beam_size: Beam size for beam search (if enabled)
         
     Returns:
         Tuple of evaluation metrics (all, single-word, multi-word, etc.)
@@ -81,6 +87,9 @@ def predict(
     print(f'Version: {version}')
     print(f'Device: {device}')
     print(f'Batch Size: {batch_size}')
+    print(f'Beam Search: {"Enabled" if use_beam_search else "Disabled"}')
+    if use_beam_search:
+        print(f'Beam Size: {beam_size}')
     print('=' * 100 + '\n')
     
     # Initialize tokenizer
@@ -136,7 +145,9 @@ def predict(
         id_to_sentiment=id_to_sentiment,
         device=device,
         version=version,
-        output_file=output_file
+        output_file=output_file,
+        use_beam_search=use_beam_search,
+        beam_size=beam_size
     )
     
     elapsed_time = time.time() - start_time

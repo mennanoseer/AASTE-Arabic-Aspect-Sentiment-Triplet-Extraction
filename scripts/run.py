@@ -181,7 +181,9 @@ def train_and_evaluate(args, save_with_seed=False):
             id_to_sentiment=id_to_sentiment,
             device=args.device,
             version=args.version,
-            class_weights=weight
+            class_weights=weight,
+            use_beam_search=args.use_beam_search,
+            beam_size=args.beam_size
         )
         
         epoch_time = time.time() - epoch_start_time
@@ -204,7 +206,9 @@ def train_and_evaluate(args, save_with_seed=False):
                 id_to_sentiment=id_to_sentiment,
                 device=args.device,
                 version=args.version,
-                class_weights=weight
+                class_weights=weight,
+                use_beam_search=args.use_beam_search,
+                beam_size=args.beam_size
             )
             test_f1 = test_results[0]['triplet']['f1']
             print(f'  → Test F1: {test_f1*100:.2f}%')
@@ -235,7 +239,9 @@ def train_and_evaluate(args, save_with_seed=False):
         device=args.device,
         version=args.version,
         class_weights=weight,
-        output_file=saved_file
+        output_file=saved_file,
+        use_beam_search=args.use_beam_search,
+        beam_size=args.beam_size
     )
     
     print(f'\n> Dataset: {args.dataset} | Version: {args.version} | '

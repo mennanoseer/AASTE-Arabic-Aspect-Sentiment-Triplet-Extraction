@@ -21,7 +21,9 @@ def evaluate_model(
     device: str = 'cuda',
     version: str = '3D',
     class_weights: Optional[torch.Tensor] = None,
-    output_file: Optional[str] = None
+    output_file: Optional[str] = None,
+    use_beam_search: bool = False,
+    beam_size: int = 5
 ) -> Tuple[float, Tuple]:
     """
     Evaluate the ASTE model on test data.
@@ -35,6 +37,8 @@ def evaluate_model(
         version: Model version ('3D', '2D', or '1D')
         class_weights: Optional class weights for loss calculation
         output_file: Optional file path to save predictions and gold labels
+        use_beam_search: Whether to use beam search for inference
+        beam_size: Beam size for beam search (if enabled)
         
     Returns:
         Tuple containing:
@@ -75,7 +79,9 @@ def evaluate_model(
                 predictions = extract_triplets_from_tags(
                     tag_table=predicted_tag_ids[idx].tolist(), 
                     id_to_sentiment=id_to_sentiment, 
-                    version=version
+                    version=version,
+                    use_beam_search=use_beam_search,
+                    beam_size=beam_size
                 )
                 
                 predicted_triplets.append(predictions['triplets'])
