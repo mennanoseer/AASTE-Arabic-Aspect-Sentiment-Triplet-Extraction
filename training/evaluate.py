@@ -5,6 +5,13 @@ This module provides functions to evaluate model predictions against ground trut
 computing metrics for aspects, opinions, pairs, and complete triplets.
 """
 
+import sys
+from pathlib import Path
+
+# Add project root to Python path
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
+
 import torch
 import json
 from collections import Counter
