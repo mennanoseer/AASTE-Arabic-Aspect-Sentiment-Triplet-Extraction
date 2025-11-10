@@ -4,6 +4,11 @@ Evaluation module for ASTE (Aspect Sentiment Triplet Extraction) model.
 This module provides functions to evaluate model predictions against ground truth,
 computing metrics for aspects, opinions, pairs, and complete triplets.
 """
+import sys
+from pathlib import Path
+
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
 
 import torch
 import json
