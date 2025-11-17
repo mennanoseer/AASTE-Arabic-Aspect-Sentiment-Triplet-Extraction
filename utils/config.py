@@ -36,7 +36,7 @@ def get_training_args():
     # Training configuration
     parser.add_argument('--seed', type=int, default=64,
                        help='Random seed for reproducibility')
-    parser.add_argument('--num_epoch', type=int, default=5,
+    parser.add_argument('--num_epoch', type=int, default=50,
                        help='Number of training epochs')
     parser.add_argument('--batch_size', type=int, default=64,
                        help='Batch size for training and evaluation')
