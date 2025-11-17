@@ -75,7 +75,9 @@ def evaluate_model(
                 predictions = extract_triplets_from_tags(
                     tag_table=predicted_tag_ids[idx].tolist(), 
                     id_to_sentiment=id_to_sentiment, 
-                    version=version
+                    version=version,
+                    use_optimal=True,
+                    logits=outputs['logits'][idx]
                 )
                 
                 predicted_triplets.append(predictions['triplets'])
