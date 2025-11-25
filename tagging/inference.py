@@ -52,12 +52,13 @@ def extract_triplets_beam_search(tag_table, id_to_sentiment, version='3D', beam_
     """
     tag_table_tensor = torch.tensor(tag_table)
     
-    # Step 1: Decode the bitmask tags
+    # Step 1: Decode the tag IDs into separate boolean masks
+    # Use the same bitwise decoding as the greedy algorithm for fair comparison
     if version == '1D':
         is_aspect_span = (tag_table_tensor == 5) > 0
         is_opinion_span = (tag_table_tensor == 4) > 0
         sentiment_grid = tag_table_tensor * ((tag_table_tensor > 0) & (tag_table_tensor < 4))
-    else:  # 3D
+    else:  # 3D: Use bitwise operations like greedy algorithm
         is_aspect_span = (tag_table_tensor & 8) > 0
         is_opinion_span = (tag_table_tensor & 4) > 0
         sentiment_grid = (tag_table_tensor & 3)
@@ -264,66 +265,61 @@ def beam_search_triplet_combination(candidate_triplets, beam_size=5):
     candidate_triplets.sort(key=lambda x: x[1], reverse=True)
     
     # Initialize beam with empty hypothesis
-    # Each hypothesis is (triplet_list, used_triplet_strings, total_score, num_triplets)
+    # Each hypothesis is: (triplet_list, used_positions_set, total_score, num_triplets)
     beam = [([], set(), 0.0, 0)]
     
     # Process each candidate
     for triplet, score in candidate_triplets:
         new_beam = []
-        triplet_str = str(triplet)
         
         aspect_span, opinion_span, sentiment = triplet
         triplet_positions = set(range(aspect_span[0], aspect_span[1] + 1))
         triplet_positions.update(range(opinion_span[0], opinion_span[1] + 1))
         
-        for current_triplets, used_triplet_strs, current_score, num_triplets in beam:
-            # Option 1: Don't add this triplet (only keep one copy per hypothesis state)
-            skip_key = (tuple(used_triplet_strs), False)
+        for current_triplets, used_positions, current_score, num_triplets in beam:
+            # Option 1: Skip this triplet (keep existing hypothesis)
+            new_beam.append((current_triplets, used_positions, current_score, num_triplets))
             
-            # Option 2: Add this triplet if no overlap and not duplicate
-            if triplet_str not in used_triplet_strs:
-                # Check for position overlap with existing triplets
-                has_overlap = False
-                for existing_triplet in current_triplets:
-                    existing_aspect, existing_opinion, _ = existing_triplet
-                    existing_positions = set(range(existing_aspect[0], existing_aspect[1] + 1))
-                    existing_positions.update(range(existing_opinion[0], existing_opinion[1] + 1))
-                    
-                    if triplet_positions & existing_positions:
-                        has_overlap = True
-                        break
-                
-                if not has_overlap:
-                    new_triplets = current_triplets + [triplet]
-                    new_triplet_strs = used_triplet_strs | {triplet_str}
-                    # Normalize score by number of triplets to avoid bias toward fewer triplets
-                    new_score = current_score + score
-                    new_beam.append((new_triplets, new_triplet_strs, new_score, num_triplets + 1))
-                    # Add the skip option only if we successfully added
-                    new_beam.append((current_triplets, used_triplet_strs, current_score, num_triplets))
-                else:
-                    # If overlap, only add skip option
-                    if skip_key not in [(tuple(t[1]), False) for t in new_beam]:
-                        new_beam.append((current_triplets, used_triplet_strs, current_score, num_triplets))
-            else:
-                # Duplicate triplet, only add skip option
-                if skip_key not in [(tuple(t[1]), False) for t in new_beam]:
-                    new_beam.append((current_triplets, used_triplet_strs, current_score, num_triplets))
+            # Option 2: Add this triplet if no position overlap
+            if not (triplet_positions & used_positions):
+                new_triplets = current_triplets + [triplet]
+                new_positions = used_positions | triplet_positions
+                new_score = current_score + score
+                new_beam.append((new_triplets, new_positions, new_score, num_triplets + 1))
         
-        # Remove duplicate hypotheses (same triplet set)
+        # Deduplicate by position set (same positions = same hypothesis)
         unique_beam = {}
-        for triplets, triplet_strs, score, count in new_beam:
-            key = tuple(sorted(triplet_strs))
-            if key not in unique_beam or unique_beam[key][2] < score:
-                unique_beam[key] = (triplets, triplet_strs, score, count)
+        for triplets, positions, score_val, count in new_beam:
+            key = tuple(sorted(positions))
+            if key not in unique_beam or unique_beam[key][3] < count or \
+               (unique_beam[key][3] == count and unique_beam[key][2] < score_val):
+                unique_beam[key] = (triplets, positions, score_val, count)
         
-        # Keep only top beam_size hypotheses, prioritize more triplets with good scores
-        beam = sorted(unique_beam.values(), key=lambda x: (x[3], x[2]), reverse=True)[:beam_size]
+        # Keep top beam_size hypotheses
+        # Prioritize: more triplets first, then higher score
+        beam = sorted(unique_beam.values(), 
+                     key=lambda x: (x[3], x[2]), 
+                     reverse=True)[:beam_size]
     
-    # Return the hypothesis with most triplets, breaking ties with score
+    # Return hypothesis with most triplets (best score as tiebreaker)
     if not beam:
         return []
     
-    best_hypothesis = max(beam, key=lambda x: (x[3], x[2]))
+    # More sophisticated hypothesis selection
+    if not beam:
+        return []
+    
+    # Sort by: (num_triplets, normalized_score_per_triplet, total_score)
+    # This balances quantity with quality better
+    scored_beam = []
+    for triplets, positions, score, count in beam:
+        if count > 0:
+            normalized_score = score / count  # Average score per triplet
+        else:
+            normalized_score = 0.0
+        scored_beam.append((triplets, positions, score, count, normalized_score))
+    
+    # Select best hypothesis with improved criteria
+    best_hypothesis = max(scored_beam, key=lambda x: (x[3], x[4], x[2]))  # (count, avg_score, total_score)
     return best_hypothesis[0]
 

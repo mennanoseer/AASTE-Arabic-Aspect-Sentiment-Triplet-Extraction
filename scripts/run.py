@@ -218,7 +218,16 @@ def train_and_evaluate(args, save_with_seed=False):
     
     # Load best model for final evaluation
     print(f'\n> Loading best model from: {best_model_path}')
-    best_model = torch.load(best_model_path, weights_only=False)
+    
+    # Fix module path issue when loading older models
+    try:
+        import models  # Import models module first
+        sys.modules['model'] = models  # Create alias
+    except ImportError:
+        pass  # If models can't be imported, proceed without alias
+    
+    best_model = torch.load(best_model_path, weights_only=False, map_location=args.device)
+    best_model.eval()
     
     # Save model with seed if requested
     if save_with_seed:

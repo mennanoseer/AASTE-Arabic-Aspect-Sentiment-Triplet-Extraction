@@ -104,6 +104,8 @@ def get_prediction_args():
                        help='Use beam search instead of greedy inference for triplet extraction')
     parser.add_argument('--beam_size', type=int, default=5,
                        help='Beam size for beam search (only used if use_beam_search is True)')
+    parser.add_argument('--use_pure_greedy', default=False, action='store_true',
+                       help='Use pure greedy algorithm from greedy.py instead of beam search')
     
     args = parser.parse_args()
     return args

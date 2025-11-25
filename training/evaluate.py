@@ -18,6 +18,7 @@ from collections import Counter
 from typing import Dict, List, Tuple, Optional, Any
 
 from tagging.inference import extract_triplets_from_tags
+from tagging.greedy import extract_triplets_from_tags as greedy_extract_triplets
 
 
 def evaluate_model(
@@ -30,7 +31,8 @@ def evaluate_model(
     class_weights: Optional[torch.Tensor] = None,
     output_file: Optional[str] = None,
     use_beam_search: bool = False,
-    beam_size: int = 5
+    beam_size: int = 5,
+    use_pure_greedy: bool = False
 ) -> Tuple[float, Tuple]:
     """
     Evaluate the ASTE model on test data.
@@ -83,13 +85,22 @@ def evaluate_model(
             
             # Extract triplets from predicted tags
             for idx in range(len(predicted_tag_ids)):
-                predictions = extract_triplets_from_tags(
-                    tag_table=predicted_tag_ids[idx].tolist(), 
-                    id_to_sentiment=id_to_sentiment, 
-                    version=version,
-                    use_beam_search=use_beam_search,
-                    beam_size=beam_size
-                )
+                if use_pure_greedy:
+                    # Use the pure greedy algorithm from greedy.py
+                    predictions = greedy_extract_triplets(
+                        tag_table=predicted_tag_ids[idx].tolist(), 
+                        id_to_sentiment=id_to_sentiment, 
+                        version=version
+                    )
+                else:
+                    # Use the beam search algorithm (or beam search with size 1 for greedy)
+                    predictions = extract_triplets_from_tags(
+                        tag_table=predicted_tag_ids[idx].tolist(), 
+                        id_to_sentiment=id_to_sentiment, 
+                        version=version,
+                        use_beam_search=use_beam_search,
+                        beam_size=beam_size
+                    )
                 
                 predicted_triplets.append(predictions['triplets'])
                 predicted_aspects.append(predictions['aspects'])

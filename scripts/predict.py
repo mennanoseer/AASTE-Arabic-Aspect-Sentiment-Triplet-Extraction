@@ -17,12 +17,14 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from transformers import AutoTokenizer
 from torch.utils.data import DataLoader
+import torch.nn as nn
 
 from data.dataset import ASTE_End2End_Dataset, aste_collate_fn
 from data.vocab import load_vocab
 from tagging.span_tagging import create_label_maps, create_sentiment_maps
 from training.evaluate import evaluate_model, print_evaluation_results
 from utils.config import get_prediction_args
+from tagging.greedy import extract_triplets_from_tags as greedy_extract_triplets
 
 
 def predict_from_args(args: argparse.Namespace) -> Tuple:
@@ -45,7 +47,8 @@ def predict_from_args(args: argparse.Namespace) -> Tuple:
         pretrained_model=args.pretrained_model,
         dataset_dir=args.dataset_dir,
         use_beam_search=args.use_beam_search,
-        beam_size=args.beam_size
+        beam_size=args.beam_size,
+        use_greedy_file=args.use_pure_greedy
     )
 
 
@@ -58,8 +61,9 @@ def predict(
     device: str = 'cuda',
     pretrained_model: str = 'aubmindlab/bert-base-arabertv2',
     dataset_dir: str = './datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC',
-    use_beam_search: bool = False,
-    beam_size: int = 5
+    use_beam_search: bool = True,
+    beam_size: int = 5,
+    use_greedy_file: bool = False
 ) -> Tuple:
     """
     Load a trained model and evaluate it on test data.
@@ -104,17 +108,35 @@ def predict(
     sentiment_to_id, id_to_sentiment = create_sentiment_maps()
     
     vocab['label_vocab'] = {
-        'label2id': label_to_id,
-        'id2label': id_to_label
+        'label_to_id': label_to_id,
+        'id_to_label': id_to_label
     }
     vocab['senti_vocab'] = {
-        'senti2id': sentiment_to_id,
-        'id2senti': id_to_sentiment
+        'senti_to_id': sentiment_to_id,
+        'id_to_senti': id_to_sentiment
     }
     
     # Load trained model
     print(f'Loading model from: {model_path}')
-    model = torch.load(model_path).to(device)
+    
+    # Fix module path issue when loading older models
+    try:
+        import models  # Import models module first
+        from models.aste_model import ASTEModel
+        sys.modules['model'] = models  # Create alias for 'model' module
+        models.base_model = ASTEModel  # Add base_model reference for compatibility
+    except ImportError:
+        pass  # If models can't be imported, proceed without alias
+    
+    model = torch.load(model_path, map_location=device)
+    
+    # Add missing attributes for backward compatibility
+    if not hasattr(model, 'dropout'):
+        model.dropout = nn.Dropout(0.5)  # Default dropout rate
+        print("Added missing dropout layer for backward compatibility")
+    
+    model = model.to(device)
+    model.eval()
     print(f'Model loaded successfully!\n')
     
     # Load test dataset
@@ -147,7 +169,8 @@ def predict(
         version=version,
         output_file=output_file,
         use_beam_search=use_beam_search,
-        beam_size=beam_size
+        beam_size=beam_size,
+        use_pure_greedy=use_greedy_file
     )
     
     elapsed_time = time.time() - start_time
