@@ -54,7 +54,7 @@ def predict(
     output_file: Optional[str] = None,
     batch_size: int = 16,
     device: str = 'cuda',
-    pretrained_model: str = 'UBC-NLP/MARBERT',
+    pretrained_model: str = 'CAMeL-Lab/bert-base-arabic-camelbert-mix',
     dataset_dir: str = './datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC'
 ) -> Tuple:
     """

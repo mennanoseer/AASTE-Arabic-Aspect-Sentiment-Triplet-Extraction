@@ -20,7 +20,7 @@ def get_training_args():
                        help='Directory to save trained models')
     parser.add_argument('--saved_file', type=str, default=None,
                        help='Path to save evaluation results')
-    parser.add_argument('--pretrained_model', type=str, default='UBC-NLP/MARBERT',
+    parser.add_argument('--pretrained_model', type=str, default='CAMeL-Lab/bert-base-arabic-camelbert-mix',
                        help='Pretrained transformer model to use')
     parser.add_argument('--dataset', type=str, default='16res',
                        help='Dataset name (e.g., 14lap, 14res, 15res, 16res)')
@@ -80,7 +80,7 @@ def get_prediction_args():
                        help='Dataset name (e.g., 14lap, 14res, 15res, 16res)')
     parser.add_argument('--output_file', type=str, default=None,
                        help='Path to save predictions as JSON (optional)')
-    parser.add_argument('--pretrained_model', type=str, default='aubmindlab/bert-base-arabertv2',
+    parser.add_argument('--pretrained_model', type=str, default='CAMeL-Lab/bert-base-arabic-camelbert-mix',
                        help='Pretrained transformer model to use')
     
     # Model configuration
