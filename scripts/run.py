@@ -267,7 +267,19 @@ def reproduce_best_results():
     best_seeds = {
         '16res-3D-True': 432,
         '16res-2D-True': 432,
-        '16res-1D-True': 432
+        '16res-1D-True': 432,
+        'egyptian_health-3D-True': 432,
+        'egyptian_health-2D-True': 432,
+        'egyptian_health-1D-True': 432,
+        'egyptian_fashion-3D-True': 432,
+        'egyptian_fashion-2D-True': 432,
+        'egyptian_fashion-1D-True': 432,
+        'egyptian_electronics-3D-True': 432,
+        'egyptian_electronics-2D-True': 432,
+        'egyptian_electronics-1D-True': 432,
+        'egyptian_combined-3D-True': 432,
+        'egyptian_combined-2D-True': 432,
+        'egyptian_combined-1D-True': 432
     }
     
     results_summary = {}
@@ -400,10 +412,10 @@ if __name__ == '__main__':
     # Uncomment the function you want to run:
     
     # Option 1: Run a single experiment with default settings
-    # run_single_experiment()
+    run_single_experiment()
     
     # Option 2: Reproduce best results with optimal seeds
-    reproduce_best_results()
+    # reproduce_best_results()
     
     # Option 3: Run random hyperparameter search
     # random_search_hyperparameters(num_trials=20)

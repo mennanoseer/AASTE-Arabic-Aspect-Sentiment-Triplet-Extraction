@@ -40,12 +40,12 @@ Each review in the `*_merged.json` files contains:
 ### Triplet Text Format
 The `*_triplets.txt` files use the format:
 ```
-review_text####[([aspect_start, aspect_end], [opinion_start, opinion_end], 'sentiment')]
+review_text .####[([aspect_start, aspect_end], [opinion_start, opinion_end], 'sentiment')]
 ```
 
 Example:
 ```
-الغسول جه بتاريخ انتاج قديم جدا و ليه ريحة سيئة####[([0], [1, 2, 3, 4], 'NEG'), ([0], [7, 8, 9], 'NEG')]
+الغسول جه بتاريخ انتاج قديم جدا و ليه ريحة سيئة .####[([0], [1, 2, 3, 4], 'NEG'), ([0], [7, 8, 9], 'NEG')]
 ```
 
 ## Data Split
