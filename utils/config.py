@@ -23,7 +23,7 @@ def get_training_args():
     parser.add_argument('--pretrained_model', type=str, default='aubmindlab/bert-base-arabertv2',
                        help='Pretrained transformer model to use')
     parser.add_argument('--dataset', type=str, default='16res',
-                       help='Dataset name (e.g., 14lap, 14res, 15res, 16res)')
+                       help='Dataset name (e.g., 14lap, 14res, 15res, 16res, egyptian_health, egyptian_fashion, egyptian_electronics, egyptian_combined)')
     
     # Model configuration
     parser.add_argument('--version', type=str, default='3D', choices=['3D', '2D', '1D'],
@@ -77,7 +77,7 @@ def get_prediction_args():
                        default='./datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC',
                        help='Directory containing the dataset')
     parser.add_argument('--dataset', type=str, default='16res',
-                       help='Dataset name (e.g., 14lap, 14res, 15res, 16res)')
+                       help='Dataset name (e.g., 14lap, 14res, 15res, 16res, egyptian_health, egyptian_fashion, egyptian_electronics, egyptian_combined)')
     parser.add_argument('--output_file', type=str, default=None,
                        help='Path to save predictions as JSON (optional)')
     parser.add_argument('--pretrained_model', type=str, default='aubmindlab/bert-base-arabertv2',
