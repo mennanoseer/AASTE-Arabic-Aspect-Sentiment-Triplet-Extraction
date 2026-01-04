@@ -20,7 +20,7 @@ def get_training_args():
                        help='Directory to save trained models')
     parser.add_argument('--saved_file', type=str, default=None,
                        help='Path to save evaluation results')
-    parser.add_argument('--pretrained_model', type=str, default='aubmindlab/bert-base-arabertv2',
+    parser.add_argument('--pretrained_model', type=str, default='UBC-NLP/MARBERT',
                        help='Pretrained transformer model to use')
     parser.add_argument('--dataset', type=str, default='16res',
                        help='Dataset name (e.g., 14lap, 14res, 15res, 16res, egyptian_health, egyptian_fashion, egyptian_electronics, egyptian_combined)')
@@ -36,7 +36,7 @@ def get_training_args():
     # Training configuration
     parser.add_argument('--seed', type=int, default=64,
                        help='Random seed for reproducibility')
-    parser.add_argument('--num_epoch', type=int, default=5,
+    parser.add_argument('--num_epoch', type=int, default=100,
                        help='Number of training epochs')
     parser.add_argument('--batch_size', type=int, default=64,
                        help='Batch size for training and evaluation')
