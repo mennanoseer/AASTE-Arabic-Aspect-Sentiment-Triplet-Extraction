@@ -80,7 +80,7 @@ def get_prediction_args():
                        help='Dataset name (e.g., 14lap, 14res, 15res, 16res, egyptian_health, egyptian_fashion, egyptian_electronics, egyptian_combined)')
     parser.add_argument('--output_file', type=str, default=None,
                        help='Path to save predictions as JSON (optional)')
-    parser.add_argument('--pretrained_model', type=str, default='aubmindlab/bert-base-arabertv2',
+    parser.add_argument('--pretrained_model', type=str, default='UBC-NLP/MARBERT',
                        help='Pretrained transformer model to use')
     
     # Model configuration
