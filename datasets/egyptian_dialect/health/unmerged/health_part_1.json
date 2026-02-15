@@ -1,0 +1,1792 @@
+[
+    {
+        "review_text": "الغسول جه بتاريخ انتاج قديم جدا و ليه ريحه سيئه",
+        "scraped_at": "2025-12-24T23:31:22.643165",
+        "product_link": "https://www.amazon.eg/-/en/Kolanog-Facial-Cleanser-combination-200ML/dp/B0D4MQ6334/ref=sr_1_29?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-29",
+        "product_name": "Kolanog Facial Cleanser for oily & combination skin (200ML)",
+        "star_rating": "1.0",
+        "review_title": "تاريخ انتاج قديم جدا ورائحة سيئة",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'NEG'), ([0], [7, 8, 9], 'NEG')]"
+    },
+    {
+        "review_text": "الغطاء بيسرب للاسف و مش عارفه استخدمه و لسه هجربه اسبوع هشوف بيطلع حبوب او بينشف و لا لا",
+        "scraped_at": "2025-12-24T23:31:22.872498",
+        "product_link": "https://www.amazon.eg/-/en/Kolanog-Facial-Cleanser-combination-200ML/dp/B0D4MQ6334/ref=sr_1_29?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-29",
+        "product_name": "Kolanog Facial Cleanser for oily & combination skin (200ML)",
+        "star_rating": "1.0",
+        "review_title": "لسه مش عارفه هستخدمه والغطاء مكسور وبيسرب",
+        "category": "Health",
+        "triplets": "[([1, 2, 3], [0], 'POS'), ([1, 2, 3], [4], 'POS'), ([1, 2, 3], [7, 8, 9], 'POS'), ([1, 2, 3], [10], 'POS')]"
+    },
+    {
+        "review_text": "غسول من اجمل و احسن الغسولات اللي جربتها و سعره فعلا ما بيوفيش الكواليتي بتاعته , بيبض و ينضف بعمق و اهم حاجه مبينشفش البشره",
+        "scraped_at": "2025-12-24T23:31:22.928700",
+        "product_link": "https://www.amazon.eg/-/en/Kolanog-Facial-Cleanser-combination-200ML/dp/B0D4MQ6334/ref=sr_1_29?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-29",
+        "product_name": "Kolanog Facial Cleanser for oily & combination skin (200ML)",
+        "star_rating": "5.0",
+        "review_title": "Excellent",
+        "category": "Health",
+        "triplets": "[([0], [2], 'POS'), ([0], [4], 'POS'), ([0], [9, 10, 11, 12, 13, 14], 'POS'), ([0], [16], 'POS'), ([0], [18], 'POS'), ([0], [23, 24], 'POS'), ([9], [11, 12, 13, 14], 'POS')]"
+    },
+    {
+        "review_text": "منتج كويس بس سعره بقا غالي اوي",
+        "scraped_at": "2025-12-24T23:31:22.988167",
+        "product_link": "https://www.amazon.eg/-/en/Kolanog-Facial-Cleanser-combination-200ML/dp/B0D4MQ6334/ref=sr_1_29?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-29",
+        "product_name": "Kolanog Facial Cleanser for oily & combination skin (200ML)",
+        "star_rating": "1.0",
+        "review_title": "بقا غالي اووي",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 5], 'NEG'), ([3], [5], 'NEG')]"
+    },
+    {
+        "review_text": "التغليف يقرف و العبوه مدلوقه و الغطا مكسور و مش بيقفل",
+        "scraped_at": "2025-12-24T23:31:23.040849",
+        "product_link": "https://www.amazon.eg/-/en/Kolanog-Facial-Cleanser-combination-200ML/dp/B0D4MQ6334/ref=sr_1_29?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-29",
+        "product_name": "Kolanog Facial Cleanser for oily & combination skin (200ML)",
+        "star_rating": "1.0",
+        "review_title": "تغليف",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([3], [4], 'NEG'), ([6], [7], 'NEG'), ([6], [9, 10], 'NEG')]"
+    },
+    {
+        "review_text": "الغسول تحفه قوي و بينور الوش و ريحته جميله",
+        "scraped_at": "2025-12-24T23:30:32.951533",
+        "product_link": "https://www.amazon.eg/-/en/LOr%C3%A9al-Paris-Glycolic-Glowing-Cleanser/dp/B0B9LF72J6/ref=sr_1_27?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-27",
+        "product_name": "L'Oréal Paris Glycolic Bright Glowing Daily Cleanser Foam 100Ml",
+        "star_rating": "4.0",
+        "review_title": "رااائع",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4, 5], 'POS'), ([0], [7, 8], 'POS')]"
+    },
+    {
+        "review_text": "غسول من احسن الغسولات الي بتنضف و مش بتنشف الوش",
+        "scraped_at": "2025-12-24T23:30:33.060216",
+        "product_link": "https://www.amazon.eg/-/en/LOr%C3%A9al-Paris-Glycolic-Glowing-Cleanser/dp/B0B9LF72J6/ref=sr_1_27?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-27",
+        "product_name": "L'Oréal Paris Glycolic Bright Glowing Daily Cleanser Foam 100Ml",
+        "star_rating": "5.0",
+        "review_title": "كويس",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'POS'), ([0], [7, 8, 9], 'POS')]"
+    },
+    {
+        "review_text": "غسول تحفه حلو جدا جدا بشرتي مختلطه حلو اوي بينظف جدا و مش بينشف خالص اكيد هجيبه تاني",
+        "scraped_at": "2025-12-24T23:30:57.600018",
+        "product_link": "https://www.amazon.eg/-/en/LOr%C3%A9al-Paris-Hyaluron-Replumping-Hyaluronic/dp/B091B153T8/ref=sr_1_28?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-28",
+        "product_name": "L’Oréal Paris L'Oréal Paris Hyaluron Expert Replumping Face Wash with Hyaluronic Acid, 200ml",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS'), ([0], [7], 'POS'), ([0], [9], 'POS'), ([0], [12, 13], 'POS')]"
+    },
+    {
+        "review_text": "الغسول دا خطير مابقدرش استغني عنه ، ناعم جدا و لطيف علي البشره الدهنيه ، مهما بجرب انواع تانيه لازم ارجعله برضه",
+        "scraped_at": "2025-12-24T23:30:57.684707",
+        "product_link": "https://www.amazon.eg/-/en/LOr%C3%A9al-Paris-Hyaluron-Replumping-Hyaluronic/dp/B091B153T8/ref=sr_1_28?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-28",
+        "product_name": "L’Oréal Paris L'Oréal Paris Hyaluron Expert Replumping Face Wash with Hyaluronic Acid, 200ml",
+        "star_rating": "5.0",
+        "review_title": "أحلى نوع غسول للبشرة الدهنية❤️❤️",
+        "category": "Health",
+        "triplets": "[([0], [2], 'POS'), ([0], [3, 4, 5], 'POS'), ([0], [7], 'POS'), ([0], [10, 11, 12, 13], 'POS')]"
+    },
+    {
+        "review_text": "غسول فوق الممتاز ترطيب عالي ريحه تحفه",
+        "scraped_at": "2025-12-24T23:30:57.810905",
+        "product_link": "https://www.amazon.eg/-/en/LOr%C3%A9al-Paris-Hyaluron-Replumping-Hyaluronic/dp/B091B153T8/ref=sr_1_28?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-28",
+        "product_name": "L’Oréal Paris L'Oréal Paris Hyaluron Expert Replumping Face Wash with Hyaluronic Acid, 200ml",
+        "star_rating": "5.0",
+        "review_title": "مدينه الفردوس ٦اكتوبر",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([3], [4], 'POS'), ([5], [6], 'POS')]"
+    },
+    {
+        "review_text": "غسول غير جيد للبشره الحساسه",
+        "scraped_at": "2025-12-24T23:30:57.865818",
+        "product_link": "https://www.amazon.eg/-/en/LOr%C3%A9al-Paris-Hyaluron-Replumping-Hyaluronic/dp/B091B153T8/ref=sr_1_28?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-28",
+        "product_name": "L’Oréal Paris L'Oréal Paris Hyaluron Expert Replumping Face Wash with Hyaluronic Acid, 200ml",
+        "star_rating": "1.0",
+        "review_title": "Not good",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'NEG')]"
+    },
+    {
+        "review_text": "حبيت الغسول دا بس اشتريته مره وحده بس عايزه اجربه بس محتاره بقولكم هو رغوي و فيه ريحه بس حلو",
+        "scraped_at": "2025-12-24T23:30:58.024044",
+        "product_link": "https://www.amazon.eg/-/en/LOr%C3%A9al-Paris-Hyaluron-Replumping-Hyaluronic/dp/B091B153T8/ref=sr_1_28?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-28",
+        "product_name": "L’Oréal Paris L'Oréal Paris Hyaluron Expert Replumping Face Wash with Hyaluronic Acid, 200ml",
+        "star_rating": "5.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([1], [0], 'POS'), ([1], [14], 'NEU'), ([1], [17], 'NEU'), ([1], [19], 'POS')]"
+    },
+    {
+        "review_text": "غسول يقلل القشره في الوجه بشكل كبير جدا بس متستعملش كل يوم ممكن يوم اه يوم لا وتغسل وشك بماء بارد مش دافي علشان ميزودش القشره تحط جزء بسيط علي مكان القشره حاجب دقن وتدلكه بهدوء 30 ثانيه بعدين تشطف وشك بماء بارد من النفيه عادي هيكون الوضع تمام",
+        "scraped_at": "2025-12-24T23:21:52.013631",
+        "product_link": "https://www.amazon.eg/-/en/NanoTreat-Salicylic-Niacinamide-Gentle-Cleanser/dp/B0DL4JFSHL/ref=sr_1_5?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-5",
+        "product_name": "NanoTreat Salicylic Acid & Niacinamide Daily Gentle Cleanser 200ml",
+        "star_rating": "4.0",
+        "review_title": "مفيد جدا لعلاج قشره البشره الحواجب الدقن الاجزاء دي",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'POS')]"
+    },
+    {
+        "review_text": "العبوه مخربشه جدا من برا و مش متغلف",
+        "scraped_at": "2025-12-24T23:21:52.075450",
+        "product_link": "https://www.amazon.eg/-/en/NanoTreat-Salicylic-Niacinamide-Gentle-Cleanser/dp/B0DL4JFSHL/ref=sr_1_5?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-5",
+        "product_name": "NanoTreat Salicylic Acid & Niacinamide Daily Gentle Cleanser 200ml",
+        "star_rating": "3.0",
+        "review_title": "العبوه مخربشه جداً من برا ومش متغلف",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [6, 7], 'NEG')]"
+    },
+    {
+        "review_text": "غسول حلو اوي بينضف الوش كويس و مش بينشف اوي",
+        "scraped_at": "2025-12-24T23:21:52.128712",
+        "product_link": "https://www.amazon.eg/-/en/NanoTreat-Salicylic-Niacinamide-Gentle-Cleanser/dp/B0DL4JFSHL/ref=sr_1_5?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-5",
+        "product_name": "NanoTreat Salicylic Acid & Niacinamide Daily Gentle Cleanser 200ml",
+        "star_rating": "5.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4], 'POS'), ([0], [7, 8, 9], 'NEU')]"
+    },
+    {
+        "review_text": "بشرتي مختلطه استخدمت الغسول 6 مرات بس وطلعلي حبوب بقالي شهرين بعالج وشي غير ان وشي بيهرشني جدا وكل ما حبايه تخف تطلع غيرها",
+        "scraped_at": "2025-12-24T23:21:52.177491",
+        "product_link": "https://www.amazon.eg/-/en/NanoTreat-Salicylic-Niacinamide-Gentle-Cleanser/dp/B0DL4JFSHL/ref=sr_1_5?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-5",
+        "product_name": "NanoTreat Salicylic Acid & Niacinamide Daily Gentle Cleanser 200ml",
+        "star_rating": "1.0",
+        "review_title": "طلعلي حبوب",
+        "category": "Health",
+        "triplets": "[([3], [7, 8], 'NEG'), ([15], [16], 'NEG')]"
+    },
+    {
+        "review_text": "الغسول حلو جدا بس بينشف الوش شويه فالشتا",
+        "scraped_at": "2025-12-24T23:21:52.259594",
+        "product_link": "https://www.amazon.eg/-/en/NanoTreat-Salicylic-Niacinamide-Gentle-Cleanser/dp/B0DL4JFSHL/ref=sr_1_5?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-5",
+        "product_name": "NanoTreat Salicylic Acid & Niacinamide Daily Gentle Cleanser 200ml",
+        "star_rating": "4.0",
+        "review_title": "good",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4, 5, 7], 'NEG')]"
+    },
+    {
+        "review_text": "غسول تحفه بجد حاجه مش طبيعيه",
+        "scraped_at": "2025-12-24T23:21:52.317851",
+        "product_link": "https://www.amazon.eg/-/en/NanoTreat-Salicylic-Niacinamide-Gentle-Cleanser/dp/B0DL4JFSHL/ref=sr_1_5?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-5",
+        "product_name": "NanoTreat Salicylic Acid & Niacinamide Daily Gentle Cleanser 200ml",
+        "star_rating": "5.0",
+        "review_title": "ليه سعر زاد و اتغير",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3], [4, 5], 'POS')]"
+    },
+    {
+        "review_text": "غسول ممتاز ومختلف تماما في السائل وريحيته ولونه تحفه شكرا خدمه عملاء امازون",
+        "scraped_at": "2025-12-24T23:22:42.781597",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Cleansing-activates-impurities-providing/dp/B07MTQ7BNT/ref=sr_1_7?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-7",
+        "product_name": "Neutrogena Cleansing Water Gel Hydro Boost Normal To Dry Skin, activates with water to remove impurities while providing the skin with a boost of hydration, 200ml",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS'), ([0], [6, 8], 'POS'), ([0], [7, 8], 'POS'), ([6], [8], 'POS'), ([7], [8], 'POS')]"
+    },
+    {
+        "review_text": "الغسول مش بينشف البشره ( بشرتي عاديه ) وبينضف كويس",
+        "scraped_at": "2025-12-24T23:22:42.857572",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Cleansing-activates-impurities-providing/dp/B07MTQ7BNT/ref=sr_1_7?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-7",
+        "product_name": "Neutrogena Cleansing Water Gel Hydro Boost Normal To Dry Skin, activates with water to remove impurities while providing the skin with a boost of hydration, 200ml",
+        "star_rating": "5.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'POS'), ([0], [8, 9], 'POS')]"
+    },
+    {
+        "review_text": "قوامه عجبني ، بشرتي مختلطه حساسه مطلعليش حبوب ، شويه صغيرين كفايه ، و الغسول مش بينشف البشره",
+        "scraped_at": "2025-12-24T23:22:42.921373",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Cleansing-activates-impurities-providing/dp/B07MTQ7BNT/ref=sr_1_7?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-7",
+        "product_name": "Neutrogena Cleansing Water Gel Hydro Boost Normal To Dry Skin, activates with water to remove impurities while providing the skin with a boost of hydration, 200ml",
+        "star_rating": "4.0",
+        "review_title": "عجبني",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [6, 7], 'POS'), ([14], [15, 16, 17], 'POS')]"
+    },
+    {
+        "review_title": "تجربتي مع الغسول على البشرة الحساسة",
+        "review_text": "المنتج رائع ، مش بينشف البشره خالص وبينضف بلطف وبيسيب البشره ناعمه بعده و مش بيطلع حبوب .. بقالي اكتر من اسبوع بستخدمه وجميل جدا معايا . اللي شجعني اجربه اني كنت جربت المرطب و كان حلو قوي مع بشرتي ، فالحمدلله مبسوطه منهم هما الاتنين جدا .",
+        "scraped_at": "2025-12-24T23:22:43.010118",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Cleansing-activates-impurities-providing/dp/B07MTQ7BNT/ref=sr_1_7?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-7",
+        "product_name": "Neutrogena Cleansing Water Gel Hydro Boost Normal To Dry Skin, activates with water to remove impurities while providing the skin with a boost of hydration, 200ml",
+        "star_rating": "5.0",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4, 5], 'POS'), ([0], [7, 8], 'POS'), ([0], [9, 10, 11], 'POS'), ([0], [14, 15, 16], 'POS'), ([0], [23], 'POS'), ([33], [36], 'POS'), ([45], [42], 'POS')]"
+    },
+    {
+        "review_text": "الغسول حلو للبشره وخفيف لسه تحت التجربه",
+        "scraped_at": "2025-12-24T23:22:43.076854",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Cleansing-activates-impurities-providing/dp/B07MTQ7BNT/ref=sr_1_7?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-7",
+        "product_name": "Neutrogena Cleansing Water Gel Hydro Boost Normal To Dry Skin, activates with water to remove impurities while providing the skin with a boost of hydration, 200ml",
+        "star_rating": "3.0",
+        "review_title": "خفيف وبيرطب البشره",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3], 'POS')]"
+    },
+    {
+        "review_text": "افضل غسول بشره مناسب لكل الانواع لا يسبب جفاف وينظف بعمق بس للاسف سعره بقي الضعف",
+        "scraped_at": "2025-12-24T23:22:43.197190",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Cleansing-activates-impurities-providing/dp/B07MTQ7BNT/ref=sr_1_7?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-7",
+        "product_name": "Neutrogena Cleansing Water Gel Hydro Boost Normal To Dry Skin, activates with water to remove impurities while providing the skin with a boost of hydration, 200ml",
+        "star_rating": "5.0",
+        "review_title": "رائع",
+        "category": "Health",
+        "triplets": "[([1], [0], 'POS'), ([1], [3, 4, 5], 'POS'), ([1], [6, 7, 8], 'POS'), ([1], [9], 'POS'), ([1], [13, 15], 'NEG'), ([13], [15], 'NEG')]"
+    },
+    {
+        "review_text": "صراحه احلي غسول للبشره المتخطله مايله للدهنيه بنظف بعمق",
+        "scraped_at": "2025-12-24T23:36:18.326317",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Face-Wash-Clean-200ml/dp/B004PTZADE/ref=sr_1_41?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-41",
+        "product_name": "Neutrogena Face Wash, Deep Clean, Gel, 200ml",
+        "star_rating": "5.0",
+        "review_title": "بنظف جدا",
+        "category": "Health",
+        "triplets": "[([2], [1, 3, 4, 5, 6], 'POS'), ([2], [7], 'POS')]"
+    },
+    {
+        "review_text": "منتج ممتاز سعر مناسب وارخص من صيدليات كثير وبيشيل الدهون من علي الوجه بشكل كامل",
+        "scraped_at": "2025-12-24T23:36:18.442365",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Face-Wash-Clean-200ml/dp/B004PTZADE/ref=sr_1_41?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-41",
+        "product_name": "Neutrogena Face Wash, Deep Clean, Gel, 200ml",
+        "star_rating": "5.0",
+        "review_title": "منتج ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([2], [3], 'POS'), ([2], [4, 5, 6], 'POS'), ([0], [8, 9], 'POS')]"
+    },
+    {
+        "review_text": "العبوه وصلتلي نقصه كميه كبيره اوي بس هو كمنتج كويس جدا و بيظف البشره حلو",
+        "scraped_at": "2025-12-24T23:36:18.503883",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Face-Wash-Clean-200ml/dp/B004PTZADE/ref=sr_1_41?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-41",
+        "product_name": "Neutrogena Face Wash, Deep Clean, Gel, 200ml",
+        "star_rating": "4.0",
+        "review_title": "المنتج حلو بس الازازه نقصه كتير",
+        "category": "Health",
+        "triplets": "[([0], [2, 3, 4], 'NEG'), ([8], [9], 'POS'), ([8], [12, 13, 14], 'POS')]"
+    },
+    {
+        "review_text": "المنتج منتهي الصلاحيه و المفروض ان البائع امازون فالمفروض يبقي في ضمير شويه عن كده خليتوا ايه للبائعين العاديين ؟؟",
+        "scraped_at": "2025-12-24T23:36:18.640403",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Face-Wash-Clean-200ml/dp/B004PTZADE/ref=sr_1_41?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-41",
+        "product_name": "Neutrogena Face Wash, Deep Clean, Gel, 200ml",
+        "star_rating": "1.0",
+        "review_title": "المنتج جالي منتهي الصلاحية",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج حلو وبينظف كويس بس مش لكل يوم عشان بينشف الوش شويه و لما كنت بستخدمه كل يوم بشرتي بتهيج فا بستخدمه مره في الاسبوع كدا و الحمد الله مطلعليش حبوب او حاجه فا يعتبر شغال",
+        "scraped_at": "2025-12-24T23:36:18.710939",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Face-Wash-Clean-200ml/dp/B004PTZADE/ref=sr_1_41?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-41",
+        "product_name": "Neutrogena Face Wash, Deep Clean, Gel, 200ml",
+        "star_rating": "4.0",
+        "review_title": ".",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3], 'POS'), ([0], [9], 'NEG'), ([18], [19], 'NEG'), ([0], [29, 30], 'POS'), ([0], [35], 'NEU')]"
+    },
+    {
+        "review_text": "غسول ممتاز وينظف البشره بعمق وما احب اغيره شكرا",
+        "scraped_at": "2025-12-24T23:36:18.856628",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Face-Wash-Clean-200ml/dp/B004PTZADE/ref=sr_1_41?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-41",
+        "product_name": "Neutrogena Face Wash, Deep Clean, Gel, 200ml",
+        "star_rating": "5.0",
+        "review_title": "شكرا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3], 'POS'), ([0], [5, 6, 7], 'POS')]"
+    },
+    {
+        "review_text": "كريم رائع في التعامل مع الاكزيما",
+        "scraped_at": "2025-12-24T23:29:18.959860",
+        "product_link": "https://www.amazon.eg/-/en/Purex-MOIST_1-MILKY-CLEANSER-NORMAL/dp/B0BGJ9855Z/ref=sr_1_24?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-24",
+        "product_name": "Purex MOIST_1 MILKY CLEANSER FOR DRY &NORMAL SKIN 200 ml",
+        "star_rating": "5.0",
+        "review_title": "لطيف ومرطب",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4, 5], 'POS')]"
+    },
+    {
+        "review_text": "احسن كريم مرطب مصري في السوق مناسب للجسم و اللي عندهم اكزيما طبعا ماينفعش للوش لانه تقيل ع البشره",
+        "scraped_at": "2025-12-24T23:29:19.040031",
+        "product_link": "https://www.amazon.eg/-/en/Purex-MOIST_1-MILKY-CLEANSER-NORMAL/dp/B0BGJ9855Z/ref=sr_1_24?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-24",
+        "product_name": "Purex MOIST_1 MILKY CLEANSER FOR DRY &NORMAL SKIN 200 ml",
+        "star_rating": "5.0",
+        "review_title": "The best",
+        "category": "Health",
+        "triplets": "[([1, 2, 3], [0], 'POS'), ([1, 2, 3], [6, 7], 'POS')]"
+    },
+    {
+        "review_text": "المرطب حلو بيمتص بسرعه و ترطيبه كويس",
+        "scraped_at": "2025-12-24T23:29:19.119833",
+        "product_link": "https://www.amazon.eg/-/en/Purex-MOIST_1-MILKY-CLEANSER-NORMAL/dp/B0BGJ9855Z/ref=sr_1_24?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-24",
+        "product_name": "Purex MOIST_1 MILKY CLEANSER FOR DRY &NORMAL SKIN 200 ml",
+        "star_rating": "4.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3], 'POS'), ([0], [5, 6], 'POS'), ([5], [6], 'POS')]"
+    },
+    {
+        "review_text": "مرطب رائع و انصح به للبشره الجافه و المختلطه و لا يترك اي اثر دهني علي البشره ويتركها ناعمه واكثر ما يميزه انه بدون رائحه",
+        "scraped_at": "2025-12-24T23:29:19.290300",
+        "product_link": "https://www.amazon.eg/-/en/Purex-MOIST_1-MILKY-CLEANSER-NORMAL/dp/B0BGJ9855Z/ref=sr_1_24?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-24",
+        "product_name": "Purex MOIST_1 MILKY CLEANSER FOR DRY &NORMAL SKIN 200 ml",
+        "star_rating": "5.0",
+        "review_title": "مرطب رائع وطبى",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4, 5, 6, 8], 'POS'), ([0], [10, 11, 12, 13, 14], 'POS'), ([0], [17, 18], 'POS'), ([0], [23, 24], 'POS')]"
+    },
+    {
+        "review_text": "المنتج ينظف البشره بعنايه وبيمنع الجفاف",
+        "scraped_at": "2025-12-24T23:30:08.537188",
+        "product_link": "https://www.amazon.eg/-/en/Sebaclar-Purifying-Cleansing-Gel-200/dp/B08WJMHS84/ref=sr_1_26?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-26",
+        "product_name": "Sebaclar Purifying Cleansing Gel 200 ml",
+        "star_rating": "5.0",
+        "review_title": "جيد للبشره الحساسه الدهنية",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4, 5], 'POS')]"
+    },
+    {
+        "review_text": "منتج حلو و بينضف الوش و بيسيبه مترطب تاني علبه اجيبها",
+        "scraped_at": "2025-12-24T23:30:08.621367",
+        "product_link": "https://www.amazon.eg/-/en/Sebaclar-Purifying-Cleansing-Gel-200/dp/B08WJMHS84/ref=sr_1_26?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-26",
+        "product_name": "Sebaclar Purifying Cleansing Gel 200 ml",
+        "star_rating": "5.0",
+        "review_title": "جميل",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4], 'POS'), ([0], [6, 7], 'POS'), ([0], [8, 9, 10], 'POS')]"
+    },
+    {
+        "review_text": "نوع جيد و التقييم الاساسي يرجع لنوع كل بشره ، و لكن العبوه ربعها فارغ وحجم السائل اقل من 200 مل",
+        "scraped_at": "2025-12-24T23:30:08.683378",
+        "product_link": "https://www.amazon.eg/-/en/Sebaclar-Purifying-Cleansing-Gel-200/dp/B08WJMHS84/ref=sr_1_26?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-26",
+        "product_name": "Sebaclar Purifying Cleansing Gel 200 ml",
+        "star_rating": "4.0",
+        "review_title": "جيده",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([12], [13, 14], 'NEG'), ([15, 16], [17, 18, 19, 20], 'NEG')]"
+    },
+    {
+        "review_text": "منتج وحش جدا وطلعلي حبوب في وشي بطريقه بشعه وعملي التهاب",
+        "scraped_at": "2025-12-24T23:30:08.824065",
+        "product_link": "https://www.amazon.eg/-/en/Sebaclar-Purifying-Cleansing-Gel-200/dp/B08WJMHS84/ref=sr_1_26?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-26",
+        "product_name": "Sebaclar Purifying Cleansing Gel 200 ml",
+        "star_rating": "1.0",
+        "review_title": "سئ",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [3, 4], 'NEG'), ([0], [9, 10], 'NEG')]"
+    },
+    {
+        "review_text": "منتج جيد ينقي الوجه وسعره مناسب",
+        "scraped_at": "2025-12-24T23:30:08.887779",
+        "product_link": "https://www.amazon.eg/-/en/Sebaclar-Purifying-Cleansing-Gel-200/dp/B08WJMHS84/ref=sr_1_26?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-26",
+        "product_name": "Sebaclar Purifying Cleansing Gel 200 ml",
+        "star_rating": "5.0",
+        "review_title": "Review from Souq.com",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3], 'POS'), ([0], [4, 5], 'POS'), ([4], [5], 'POS')]"
+    },
+    {
+        "review_text": "هو ماسك اكتر من انه غسول لسه مش شايفه منه نتيجه بس هو مطلعش حبوب",
+        "scraped_at": "2025-12-24T23:28:54.274531",
+        "product_link": "https://www.amazon.eg/-/en/Skinside-3-Vitamin-Lightening-Cleanser/dp/B0CFRJRF2P/ref=sr_1_23?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-23",
+        "product_name": "Skinside 3-In-1 Vitamin C Lightening Cleanser - 150 Ml",
+        "star_rating": "4.0",
+        "review_title": "Good",
+        "category": "Health",
+        "triplets": "[([12], [13, 14], 'POS')]"
+    },
+    {
+        "review_text": "تحفه حلو جدا كقناع مرتين في اسبوع",
+        "scraped_at": "2025-12-24T23:28:54.339329",
+        "product_link": "https://www.amazon.eg/-/en/Skinside-3-Vitamin-Lightening-Cleanser/dp/B0CFRJRF2P/ref=sr_1_23?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-23",
+        "product_name": "Skinside 3-In-1 Vitamin C Lightening Cleanser - 150 Ml",
+        "star_rating": "5.0",
+        "review_title": "بينظف بعمق",
+        "category": "Health",
+        "triplets": "[([3], [0], 'POS'), ([3], [1], 'POS')]"
+    },
+    {
+        "review_text": "لسه تحت التجربه بس لحد دلوقتي غسول حلو اوي و مناسب مع بشرتي بشره عاديه",
+        "scraped_at": "2025-12-24T23:28:54.431295",
+        "product_link": "https://www.amazon.eg/-/en/Skinside-3-Vitamin-Lightening-Cleanser/dp/B0CFRJRF2P/ref=sr_1_23?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-23",
+        "product_name": "Skinside 3-In-1 Vitamin C Lightening Cleanser - 150 Ml",
+        "star_rating": "5.0",
+        "review_title": "مناسب لبشرتي",
+        "category": "Health",
+        "triplets": "[([6], [7], 'POS'), ([6], [10], 'POS')]"
+    },
+    {
+        "review_text": "وصل كويس المنتج نفسه مش حلو ملوش لازمه",
+        "scraped_at": "2025-12-24T23:28:54.489353",
+        "product_link": "https://www.amazon.eg/-/en/Skinside-3-Vitamin-Lightening-Cleanser/dp/B0CFRJRF2P/ref=sr_1_23?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-23",
+        "product_name": "Skinside 3-In-1 Vitamin C Lightening Cleanser - 150 Ml",
+        "star_rating": "1.0",
+        "review_title": "Quality",
+        "category": "Health",
+        "triplets": "[([2], [4, 5], 'NEG'), ([2], [6, 7], 'NEG')]"
+    },
+    {
+        "review_text": "بشرتي دهنيه الغسول عجبني جدا وبيفتح قليلا البشره لو لسه راجعه من مصيف او كده ، مكتوب عليه ينفع كماسك وكغسول ، بس لما جربته كماسك عملي حساسيه بس كغسول كان حلو اوي . انصح بشرائه و لكن متستعملهوش كماسك",
+        "scraped_at": "2025-12-24T23:28:54.583275",
+        "product_link": "https://www.amazon.eg/-/en/Skinside-3-Vitamin-Lightening-Cleanser/dp/B0CFRJRF2P/ref=sr_1_23?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-23",
+        "product_name": "Skinside 3-In-1 Vitamin C Lightening Cleanser - 150 Ml",
+        "star_rating": "4.0",
+        "review_title": "ظريف، غالبا هبقى أشتري تاني",
+        "category": "Health",
+        "triplets": "[([2], [3], 'POS'), ([2], [5], 'POS'), ([25], [26, 27], 'NEG'), ([29], [31], 'POS'), ([2], [34, 35], 'POS')]"
+    },
+    {
+        "review_text": "احسن غسول للبشره الدهنيه بينضف كويس منغير م ينشف البشره",
+        "scraped_at": "2025-12-24T23:25:36.591480",
+        "product_link": "https://www.amazon.eg/-/en/Spire-Clearsal-Gentle-Anti-Acne-Cleanser/dp/B0D8TKLTKS/ref=sr_1_14?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-14",
+        "product_name": "Spire Clearsal Gentle Anti-Acne Cleanser 200 ML",
+        "star_rating": "4.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([1, 2, 3], [0], 'POS'), ([1, 2, 3], [4, 5], 'POS'), ([1, 2, 3], [7, 8, 9], 'POS')]"
+    },
+    {
+        "review_text": "الغسول اصلا في الموقع سعره الاصلي 200 جنيه سعره مبالغ فيه",
+        "scraped_at": "2025-12-24T23:25:36.655456",
+        "product_link": "https://www.amazon.eg/-/en/Spire-Clearsal-Gentle-Anti-Acne-Cleanser/dp/B0D8TKLTKS/ref=sr_1_14?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-14",
+        "product_name": "Spire Clearsal Gentle Anti-Acne Cleanser 200 ML",
+        "star_rating": "2.0",
+        "review_title": "سعر مبالغ فيه",
+        "category": "Health",
+        "triplets": "[([0], [8, 9, 10], 'NEG'), ([8], [9, 10], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج عجبني لانه خفيف اثناء الاستخدام الخامه لطيفه علي البشره لم يسبب لي اي تحسس او اضرار العبوه فيها قطعه بلاستيكيه تحت الضاغط تحمي المنتج من الخروج بدون قصد لو سافرت بيه . او اثناء التسليم اليك",
+        "scraped_at": "2025-12-24T23:21:27.251513",
+        "product_link": "https://www.amazon.eg/-/en/Star-Ville-prone-facial-cleanser/dp/B0BZFHVDW9/ref=sr_1_4?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-4",
+        "product_name": "Star Ville acne prone skin facial cleanser 100 ml",
+        "star_rating": "5.0",
+        "review_title": "شكرا على الجودة",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3], 'POS'), ([6], [7], 'POS'), ([0], [10, 11, 12, 13, 14, 15, 16], 'POS'), ([17], [23, 24, 25, 26], 'POS')]"
+    },
+    {
+        "review_text": "دا غسول مقدرش استغني عنه حبيبي حبيبي الصراحه هو غني اكيد عن التعريف بيخلي بشرتي ناعمه وقلل الحبوب اللي في وشي وبيخلي وشي ينور مش بينشف الوش .. استمروا عليه",
+        "scraped_at": "2025-12-24T23:21:27.312284",
+        "product_link": "https://www.amazon.eg/-/en/Star-Ville-prone-facial-cleanser/dp/B0BZFHVDW9/ref=sr_1_4?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-4",
+        "product_name": "Star Ville acne prone skin facial cleanser 100 ml",
+        "star_rating": "5.0",
+        "review_title": "غسول ستارفيل ❤️",
+        "category": "Health",
+        "triplets": "[([1], [2, 3, 4], 'POS'), ([1], [5], 'POS'), ([1], [6], 'POS'), ([8], [13, 14, 15], 'POS'), ([8], [16, 17], 'POS'), ([8], [21, 22, 23], 'POS'), ([8], [24, 25], 'POS')]"
+    },
+    {
+        "review_text": "الغسول مناسب اوي للبشره الدهنيه بس لازم ترطيب بعده",
+        "scraped_at": "2025-12-24T23:21:27.367835",
+        "product_link": "https://www.amazon.eg/-/en/Star-Ville-prone-facial-cleanser/dp/B0BZFHVDW9/ref=sr_1_4?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-4",
+        "product_name": "Star Ville acne prone skin facial cleanser 100 ml",
+        "star_rating": "4.0",
+        "review_title": "كويس",
+        "category": "Health",
+        "triplets": "[([0], [1, 3, 4], 'POS')]"
+    },
+    {
+        "review_text": "الغسول ممتاز لدرجه فاجئتني حقيقي رائع للبشره الدهنيه انا مش اي حاجه بتعجبني بس ده حقيقي ابهرني اداني نفس نتيجه المنتجات الاجنبيه من تنظيف البشره جبت ال 400 مللي منه لانه فعلا يستاهل",
+        "scraped_at": "2025-12-24T23:21:27.416254",
+        "product_link": "https://www.amazon.eg/-/en/Star-Ville-prone-facial-cleanser/dp/B0BZFHVDW9/ref=sr_1_4?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-4",
+        "product_name": "Star Ville acne prone skin facial cleanser 100 ml",
+        "star_rating": "5.0",
+        "review_title": "رااااااائع",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [5, 6, 7], 'POS'), ([0], [16], 'POS'), ([0], [17, 18, 19, 20, 21], 'POS'), ([0], [32], 'POS')]"
+    },
+    {
+        "review_text": "جاني المنتج مفتوح ومكبوب في الكيس وعلي المنتج",
+        "scraped_at": "2025-12-24T23:21:27.634144",
+        "product_link": "https://www.amazon.eg/-/en/Star-Ville-prone-facial-cleanser/dp/B0BZFHVDW9/ref=sr_1_4?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-4",
+        "product_name": "Star Ville acne prone skin facial cleanser 100 ml",
+        "star_rating": "1.0",
+        "review_title": "ً",
+        "category": "Health",
+        "triplets": "[([1], [2], 'NEG'), ([1], [3], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج عجبني بصراحه ومبينشفش البشره وريحته حلوه",
+        "scraped_at": "2025-12-24T23:32:12.181198",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-100-ml/dp/B0DCTTX2MG/ref=sr_1_31?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-31",
+        "product_name": "Starville Whitening Cleanser 100 ml",
+        "star_rating": "5.0",
+        "review_title": "عجبني وانا بشرتي مختلطة",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4], 'POS'), ([0], [5, 6], 'POS'), ([5], [6], 'POS')]"
+    },
+    {
+        "review_text": "غسول تحفه و انصح اي حد يشتريه هيعجبه جدا",
+        "scraped_at": "2025-12-24T23:32:12.264576",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-100-ml/dp/B0DCTTX2MG/ref=sr_1_31?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-31",
+        "product_name": "Starville Whitening Cleanser 100 ml",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4, 5, 6], 'POS')]"
+    },
+    {
+        "review_text": "الغسول كويس للجسم بينضف كويس و كان عليه عرض حلو",
+        "scraped_at": "2025-12-24T23:32:12.317716",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-100-ml/dp/B0DCTTX2MG/ref=sr_1_31?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-31",
+        "product_name": "Starville Whitening Cleanser 100 ml",
+        "star_rating": "3.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4], 'POS'), ([0], [7, 8, 9], 'POS'), ([8], [9], 'POS')]"
+    },
+    {
+        "review_text": "الغسول تحفه للبشره الدهنيه بيفتح بسيط و مش بينشف الوش غير الصابون",
+        "scraped_at": "2025-12-24T23:32:12.374413",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-100-ml/dp/B0DCTTX2MG/ref=sr_1_31?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-31",
+        "product_name": "Starville Whitening Cleanser 100 ml",
+        "star_rating": "4.0",
+        "review_title": "غسول",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'POS'), ([0], [4, 5], 'POS'), ([0], [7, 8, 9], 'POS')]"
+    },
+    {
+        "review_text": "جبت الغسول للجسم حلو بس مستخدمتوش للوش",
+        "scraped_at": "2025-12-24T23:32:12.425356",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-100-ml/dp/B0DCTTX2MG/ref=sr_1_31?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-31",
+        "product_name": "Starville Whitening Cleanser 100 ml",
+        "star_rating": "4.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([1], [3], 'POS')]"
+    },
+    {
+        "review_text": "غسول الوجه بجد حلو جدا انصح بشراءه",
+        "scraped_at": "2025-12-24T23:21:02.861029",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-400-ml/dp/B0D5BPZGHS/ref=sr_1_3?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-3",
+        "product_name": "Starville Whitening Cleanser 400 ml",
+        "star_rating": "5.0",
+        "review_title": "غسول الوجه",
+        "category": "Health",
+        "triplets": "[([0, 1], [3], 'POS'), ([0, 1], [5, 6], 'POS')]"
+    },
+    {
+        "review_text": "المنتج كويس لكن العبوه جايه مكسوره",
+        "scraped_at": "2025-12-24T23:21:02.988932",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-400-ml/dp/B0D5BPZGHS/ref=sr_1_3?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-3",
+        "product_name": "Starville Whitening Cleanser 400 ml",
+        "star_rating": "5.0",
+        "review_title": "مكسورة",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3], [5], 'NEG')]"
+    },
+    {
+        "review_text": "الغسول يجنن كل مخلص بعيده بس هو بيعمل جفاف محتاج مرطب قوي",
+        "scraped_at": "2025-12-24T23:21:03.064379",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Whitening-Cleanser-400-ml/dp/B0D5BPZGHS/ref=sr_1_3?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-3",
+        "product_name": "Starville Whitening Cleanser 400 ml",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4], 'POS'), ([0], [7, 8], 'NEG')]"
+    },
+    {
+        "review_text": "حقيقي غسول ستارفل ده تحفه جدا بالنسبه لتراكم الاوساخ و الرؤوس السودا بيمنع ده يحصل خصوصا لو عامله تنضيف بشره بسيط بيقلل تراكم الرؤس السوداء خصوصا ف الصيف لاصحاب البشره الدهنيه و المختلطه المايله للدهنيه و يحتاج ترطيب بسيط بعده",
+        "scraped_at": "2025-12-24T23:28:29.642203",
+        "product_link": "https://www.amazon.eg/-/en/Starville-acne-cleanser-gel-200/dp/B08WT1LLJL/ref=sr_1_22?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-22",
+        "product_name": "Starville acne cleanser gel 200 ml",
+        "star_rating": "5.0",
+        "review_title": "رائع و يحتاج ترطيب بسيط بعده لاصحاب البشره الدهنيه",
+        "category": "Health",
+        "triplets": "[([1, 2], [4], 'POS'), ([1, 2], [21, 22, 23, 24], 'POS')]"
+    },
+    {
+        "review_text": "جه نفس الحجم غسول مناسب جدا للبشره المختلطه وبديل لغسولات لاروش و فيتشي",
+        "scraped_at": "2025-12-24T23:28:29.853883",
+        "product_link": "https://www.amazon.eg/-/en/Starville-acne-cleanser-gel-200/dp/B08WT1LLJL/ref=sr_1_22?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-22",
+        "product_name": "Starville acne cleanser gel 200 ml",
+        "star_rating": "5.0",
+        "review_title": "Starville cleanser",
+        "category": "Health",
+        "triplets": "[([3], [4, 6, 7], 'POS'), ([3], [8, 9, 10, 11, 12], 'POS')]"
+    },
+    {
+        "review_text": "الغسول تحفه للبشره وللجسم الصراحه و مش بيطلع حبوب",
+        "scraped_at": "2025-12-24T23:26:25.827716",
+        "product_link": "https://www.amazon.eg/-/en/Starville-whitening-cleanser-200-ml/dp/B091HS5TP1/ref=sr_1_16?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-16",
+        "product_name": "Starville whitening cleanser 200 ml",
+        "star_rating": "5.0",
+        "review_title": "حلو جدا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [6, 7, 8], 'POS')]"
+    },
+    {
+        "review_text": "اكتر غسول مناسب للبشره المختلطه بس هو مش بيفتح ف اللي يجيبه يبقي عشان ينضف الوش مش اكتر و حلو اوي للحبوب بتاعه الضهر",
+        "scraped_at": "2025-12-24T23:26:25.928731",
+        "product_link": "https://www.amazon.eg/-/en/Starville-whitening-cleanser-200-ml/dp/B091HS5TP1/ref=sr_1_16?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-16",
+        "product_name": "Starville whitening cleanser 200 ml",
+        "star_rating": "5.0",
+        "review_title": "جميل",
+        "category": "Health",
+        "triplets": "[([1], [2, 3, 4], 'POS'), ([1], [7, 8], 'NEG'), ([1], [19, 20, 21, 22, 23], 'POS')]"
+    },
+    {
+        "review_text": "الغسول حلو اوي و اول استخدام النتيجه حلوه لكن هو قاسي شويه فمحتاج تمهيد للبشره الاول عليه خصوصا لو بشرتك حساسه منصحش بيه ابدا للناس اللي بشرتها جافه انها تستخدمه كل يوم لو مضطره رطبي وشك كويس جدا جدا جدا",
+        "scraped_at": "2025-12-24T23:26:25.992574",
+        "product_link": "https://www.amazon.eg/-/en/Starville-whitening-cleanser-200-ml/dp/B091HS5TP1/ref=sr_1_16?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-16",
+        "product_name": "Starville whitening cleanser 200 ml",
+        "star_rating": "4.0",
+        "review_title": "اا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([6], [7], 'POS'), ([0], [10], 'NEG')]"
+    },
+    {
+        "review_text": "اجمل غسول واستخدمه علي مدار سنوات منذ بدايته بالسوق المصري",
+        "scraped_at": "2025-12-24T23:26:26.055217",
+        "product_link": "https://www.amazon.eg/-/en/Starville-whitening-cleanser-200-ml/dp/B091HS5TP1/ref=sr_1_16?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-16",
+        "product_name": "Starville whitening cleanser 200 ml",
+        "star_rating": "5.0",
+        "review_title": "غسول مصرى ممتاز",
+        "category": "Health",
+        "triplets": "[([1], [0], 'POS'), ([1], [2, 3, 4, 5], 'POS')]"
+    },
+    {
+        "review_text": "منتج حلو اوي اوي بجد من احلي الغسولات و مش بينشف الوش و بينضف بعمق و مش اول مره استخدمه",
+        "scraped_at": "2025-12-24T23:33:25.979755",
+        "product_link": "https://www.amazon.eg/-/en/Synobar-Cleanser-250-Ml/dp/B0DJ9H47W6/ref=sr_1_34?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-34",
+        "product_name": "Synobar Cleanser (250 Ml)",
+        "star_rating": "5.0",
+        "review_title": "احلى غسول طبي و على قد فلوسه",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [5, 6, 7], 'POS'), ([0], [9, 10], 'POS'), ([0], [13, 14], 'POS')]"
+    },
+    {
+        "review_text": "الغسول مش بينظف كويس محتاج تغسل وشك بيه مرتين عشان يجيب نتيجه",
+        "scraped_at": "2025-12-24T23:33:26.235466",
+        "product_link": "https://www.amazon.eg/-/en/Synobar-Cleanser-250-Ml/dp/B0DJ9H47W6/ref=sr_1_34?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-34",
+        "product_name": "Synobar Cleanser (250 Ml)",
+        "star_rating": "3.0",
+        "review_title": "-",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'NEG'), ([0], [5, 6, 7, 8, 9, 10, 11], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج حلو بس مش تعتمدي عليه لازم تستخدمي غسول تاني ف يومك بس مش بينشف البشره و سعره مناسب",
+        "scraped_at": "2025-12-24T23:38:46.186147",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Creamy-Cleanser-Normal/dp/B0DMT1JJ7L/ref=sr_1_48?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-48",
+        "product_name": "Tetra Hydro Daily Creamy Cleanser for Normal to Dry Skin, 200 ml",
+        "star_rating": "3.0",
+        "review_title": "🤎",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [13, 14], 'POS'), ([0], [17, 18], 'POS'), ([17], [18], 'POS')]"
+    },
+    {
+        "review_text": "الغسول بينظف الوش عادي مش عميق و لا حاجه",
+        "scraped_at": "2025-12-24T23:38:46.265287",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Creamy-Cleanser-Normal/dp/B0DMT1JJ7L/ref=sr_1_48?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-48",
+        "product_name": "Tetra Hydro Daily Creamy Cleanser for Normal to Dry Skin, 200 ml",
+        "star_rating": "1.0",
+        "review_title": "جيد",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4, 5], 'NEU')]"
+    },
+    {
+        "review_text": "القوام مخفف مش بنفس القوام الاصلي بتاعه",
+        "scraped_at": "2025-12-24T23:38:46.318573",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Creamy-Cleanser-Normal/dp/B0DMT1JJ7L/ref=sr_1_48?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-48",
+        "product_name": "Tetra Hydro Daily Creamy Cleanser for Normal to Dry Skin, 200 ml",
+        "star_rating": "2.0",
+        "review_title": "جيد",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [2, 3, 4, 5], 'NEG')]"
+    },
+    {
+        "review_text": "قوامه حلو اوي علي البشره ، بيعمل رغوه كتير و بينظف حلو جدا ، و فعلا بيعالج الحبوب",
+        "scraped_at": "2025-12-24T23:23:07.621984",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Daily-Cleanser-Combined/dp/B0DMT3KYZ7/ref=sr_1_8?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-8",
+        "product_name": "Tetra Hydro Daily Gel Cleanser for Combined to Oily Skin, 200 ml",
+        "star_rating": "5.0",
+        "review_title": "تحفة",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [6, 7, 8], 'POS'), ([0], [10, 11], 'POS'), ([0], [16, 17], 'POS')]"
+    },
+    {
+        "review_text": "الغسول جميل جدا جدا تحفه بجد للبشره الدهنيه و المختلطه بيحافظ علي البشره ونضارتها وبيضيع الحبوب ويخلي البشره رطبه مش جافه",
+        "scraped_at": "2025-12-24T23:23:07.698894",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Daily-Cleanser-Combined/dp/B0DMT3KYZ7/ref=sr_1_8?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-8",
+        "product_name": "Tetra Hydro Daily Gel Cleanser for Combined to Oily Skin, 200 ml",
+        "star_rating": "5.0",
+        "review_title": "الاسكندرية",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4, 6, 7, 8, 9], 'POS'), ([0], [10, 11, 12, 13], 'POS'), ([0], [14, 15], 'POS'), ([0], [16, 17, 18], 'POS')]"
+    },
+    {
+        "review_text": "المنتج معجبنيش ، مش بينشف البشره بس مليان عطور وحاسه بيعمل حبوب",
+        "scraped_at": "2025-12-24T23:23:07.752638",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Daily-Cleanser-Combined/dp/B0DMT3KYZ7/ref=sr_1_8?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-8",
+        "product_name": "Tetra Hydro Daily Gel Cleanser for Combined to Oily Skin, 200 ml",
+        "star_rating": "3.0",
+        "review_title": "Tetra hydro",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [3, 4, 5], 'POS'), ([0], [7, 8], 'NEG'), ([0], [10, 11], 'NEG')]"
+    },
+    {
+        "review_text": "الغسول غير فعال ، كانك تستخدم صابون عادي مع مزيد من الروائح العطريه وليس له تاثبر ع الحبوب",
+        "scraped_at": "2025-12-24T23:23:07.808752",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Daily-Cleanser-Combined/dp/B0DMT3KYZ7/ref=sr_1_8?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-8",
+        "product_name": "Tetra Hydro Daily Gel Cleanser for Combined to Oily Skin, 200 ml",
+        "star_rating": "1.0",
+        "review_title": "غير فعال",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG'), ([0], [4, 5, 6], 'NEG'), ([0], [13, 14, 15, 16, 17], 'NEG')]"
+    },
+    {
+        "review_text": "منتج جميل و خفيف ع البشره و بيهدي الحبوب",
+        "scraped_at": "2025-12-24T23:23:07.856317",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Daily-Cleanser-Combined/dp/B0DMT3KYZ7/ref=sr_1_8?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-8",
+        "product_name": "Tetra Hydro Daily Gel Cleanser for Combined to Oily Skin, 200 ml",
+        "star_rating": "5.0",
+        "review_title": ".",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4, 5], 'POS'), ([0], [7, 8], 'POS')]"
+    },
+    {
+        "review_text": "الغسول جميل بينضف اوي البشره خصوصا بعد المكياج و مش بينشف وشي و ريحه هاديه",
+        "scraped_at": "2025-12-24T23:23:07.906262",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Daily-Cleanser-Combined/dp/B0DMT3KYZ7/ref=sr_1_8?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-8",
+        "product_name": "Tetra Hydro Daily Gel Cleanser for Combined to Oily Skin, 200 ml",
+        "star_rating": "5.0",
+        "review_title": "اعجبنى",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS'), ([0], [9, 10], 'POS'), ([13], [14], 'POS')]"
+    },
+    {
+        "review_text": "الغسول ريحته حلوه تحت التجربه",
+        "scraped_at": "2025-12-24T23:23:07.956067",
+        "product_link": "https://www.amazon.eg/-/en/Tetra-Hydro-Daily-Cleanser-Combined/dp/B0DMT3KYZ7/ref=sr_1_8?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-8",
+        "product_name": "Tetra Hydro Daily Gel Cleanser for Combined to Oily Skin, 200 ml",
+        "star_rating": "2.0",
+        "review_title": "تحت التجربه",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([1], [2], 'POS')]"
+    },
+    {
+        "review_text": "اجمل غسول و مناسب جدا للبشره الدهنيه وحب الشباب",
+        "scraped_at": "2025-12-24T23:35:28.991500",
+        "product_link": "https://www.amazon.eg/-/en/Topi-gent-sebum-cleansing-foam-150/dp/B084X79ZDT/ref=sr_1_39?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-39",
+        "product_name": "Topi-gent sebum cleansing foam 150 ml",
+        "star_rating": "5.0",
+        "review_title": "روووعة",
+        "category": "Health",
+        "triplets": "[([1], [0], 'POS'), ([1], [3, 5, 6], 'POS'), ([1], [3, 7, 8], 'POS')]"
+    },
+    {
+        "review_text": "احلي غسول للبشره الدهنيه",
+        "scraped_at": "2025-12-24T23:35:29.160857",
+        "product_link": "https://www.amazon.eg/-/en/Topi-gent-sebum-cleansing-foam-150/dp/B084X79ZDT/ref=sr_1_39?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-39",
+        "product_name": "Topi-gent sebum cleansing foam 150 ml",
+        "star_rating": "5.0",
+        "review_title": "احلى غسول للبشرة الدهنية",
+        "category": "Health",
+        "triplets": "[([1], [0], 'POS')]"
+    },
+    {
+        "review_text": "الغسول وحش جدا وطلعلي حبوب تحت الجلد لاانصح بيه نهائي",
+        "scraped_at": "2025-12-24T23:35:29.318020",
+        "product_link": "https://www.amazon.eg/-/en/Topi-gent-sebum-cleansing-foam-150/dp/B084X79ZDT/ref=sr_1_39?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-39",
+        "product_name": "Topi-gent sebum cleansing foam 150 ml",
+        "star_rating": "1.0",
+        "review_title": "سي جدا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [3, 4, 5, 6], 'NEG'), ([0], [7, 8, 9], 'NEG')]"
+    },
+    {
+        "review_text": "الغسول بينضف كويس من غير ما ينشف البشره و مش بيطلع حبوب تحت الجلد و لا بيعمل حساسيه",
+        "scraped_at": "2025-12-24T23:37:57.026535",
+        "product_link": "https://www.amazon.eg/-/en/cleanser-eliminates-Ultra-gentle-Soap-Free-Physiological/dp/B004LOIO22/ref=sr_1_46?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-46",
+        "product_name": "URIAGE HYSEAC Face cleanser for oily skin I 100% purified skin, eliminates sebum excess. Ultra-gentle foaming facial gel cleanser I Face & Body I Paraben & Soap-Free I Physiological pH",
+        "star_rating": "5.0",
+        "review_title": "أفضل غسول جربته بشرتى مختلطة",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([0], [5, 6, 7], 'POS'), ([0], [9, 10, 11, 12, 13], 'POS'), ([0], [15, 16, 17], 'POS')]"
+    },
+    {
+        "review_text": "المنتج وصلي مفتوح من غير ورقه تغليف علي الغطا بمعني ممكن يكون مستعمل",
+        "scraped_at": "2025-12-24T23:37:57.141051",
+        "product_link": "https://www.amazon.eg/-/en/cleanser-eliminates-Ultra-gentle-Soap-Free-Physiological/dp/B004LOIO22/ref=sr_1_46?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-46",
+        "product_name": "URIAGE HYSEAC Face cleanser for oily skin I 100% purified skin, eliminates sebum excess. Ultra-gentle foaming facial gel cleanser I Face & Body I Paraben & Soap-Free I Physiological pH",
+        "star_rating": "1.0",
+        "review_title": "عبوه مفتوحه",
+        "category": "Health",
+        "triplets": "[([0], [2], 'NEG'), ([0], [3, 4, 5, 6, 7, 8], 'NEG'), ([0], [10, 11, 12], 'NEG')]"
+    },
+    {
+        "review_text": "الغسول مابيعملش اي حبوب بينضف البشره م الدهون",
+        "scraped_at": "2025-12-24T23:37:57.187058",
+        "product_link": "https://www.amazon.eg/-/en/cleanser-eliminates-Ultra-gentle-Soap-Free-Physiological/dp/B004LOIO22/ref=sr_1_46?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-46",
+        "product_name": "URIAGE HYSEAC Face cleanser for oily skin I 100% purified skin, eliminates sebum excess. Ultra-gentle foaming facial gel cleanser I Face & Body I Paraben & Soap-Free I Physiological pH",
+        "star_rating": "3.0",
+        "review_title": "كويس",
+        "category": "Health",
+        "triplets": "[([0], [1, 3], 'POS'), ([0], [4], 'POS')]"
+    },
+    {
+        "review_text": "الاوردر وصل مغلف و المنتج اصلي",
+        "scraped_at": "2025-12-24T23:37:57.287127",
+        "product_link": "https://www.amazon.eg/-/en/cleanser-eliminates-Ultra-gentle-Soap-Free-Physiological/dp/B004LOIO22/ref=sr_1_46?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-46",
+        "product_name": "URIAGE HYSEAC Face cleanser for oily skin I 100% purified skin, eliminates sebum excess. Ultra-gentle foaming facial gel cleanser I Face & Body I Paraben & Soap-Free I Physiological pH",
+        "star_rating": "5.0",
+        "review_title": "جميل",
+        "category": "Health",
+        "triplets": "[([0], [2], 'POS'), ([4], [5], 'POS')]"
+    },
+    {
+        "review_text": "المنتج جيد جدا و لكن من بائعين تانيه عندهم ضمير البائع دا بيرسل منتج مختلف ومجهول الهويه زجاجه قديمه جدا ومتعبيه منتج مجهول الهويه او منتهي الصلاحيه",
+        "scraped_at": "2025-12-24T23:35:53.862488",
+        "product_link": "https://www.amazon.eg/-/en/VICHY-NORMADERM-PHYTO-CLEANS-400ML/dp/B07Q4M4ZMT/ref=sr_1_40?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-40",
+        "product_name": "VICHY NORMADERM NO PHYTO-A CLEANS (400ML)",
+        "star_rating": "1.0",
+        "review_title": "المنتج غيربيوصل مختلف تماما شئ وهمي متعبي في زجاجه مجهول الهويه بائع غير أمين",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([10], [12, 13, 14], 'NEG'), ([13], [14], 'NEG'), ([13], [15, 16], 'NEG'), ([17], [18], 'NEG'), ([17], [20, 21, 22], 'NEG')]"
+    },
+    {
+        "review_text": "الغسول حساه مش اصلي خفيف جدا عن الي بجيبه",
+        "scraped_at": "2025-12-24T23:35:53.909489",
+        "product_link": "https://www.amazon.eg/-/en/VICHY-NORMADERM-PHYTO-CLEANS-400ML/dp/B07Q4M4ZMT/ref=sr_1_40?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-40",
+        "product_name": "VICHY NORMADERM NO PHYTO-A CLEANS (400ML)",
+        "star_rating": "1.0",
+        "review_title": "الغسول حساه مش اصلى خفيف جدا عم البجيبه",
+        "category": "Health",
+        "triplets": "[([0], [2, 3], 'NEG'), ([0], [4], 'NEG')]"
+    },
+    {
+        "review_text": "حطيت الماسك و سبته خمس دقايق بيقشرالجلد الميت",
+        "scraped_at": "2025-12-24T23:23:31.831221",
+        "product_link": "https://www.amazon.eg/-/en/WEISER-Salicylic-Acid-Cleansing-Prone/dp/B0F5X5M6V9/ref=sr_1_9?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-9",
+        "product_name": "WEISER Salicylic Acid Soap, Cleansing Soap for Acne Prone Skin 45GM",
+        "star_rating": "5.0",
+        "review_title": "ممتازه",
+        "category": "Health",
+        "triplets": "[([1], [5, 6, 7], 'POS')]"
+    },
+    {
+        "review_text": "الصابونه حاميه اوي علي الوجه و بتعمل جفاف شديد لازم مرطب بعدها .. و طلعتلي حبوب بس معرفش هل هي بتطلع الحبوب اللي تحت الجلد وبعدين البشره تصفي و لا لا بس اعتقد لو غسول هيكون افضل و احن علي البشره منها بكتير",
+        "scraped_at": "2025-12-24T23:23:32.009410",
+        "product_link": "https://www.amazon.eg/-/en/WEISER-Salicylic-Acid-Cleansing-Prone/dp/B0F5X5M6V9/ref=sr_1_9?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-9",
+        "product_name": "WEISER Salicylic Acid Soap, Cleansing Soap for Acne Prone Skin 45GM",
+        "star_rating": "3.0",
+        "review_title": "شديده على البشره",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [6, 7, 8], 'NEG'), ([0], [14, 15], 'NEG')]"
+    },
+    {
+        "review_text": "الصابونه دي احلي حاجه جبتها في حياتي بجد خلصتني من الحبوب",
+        "scraped_at": "2025-12-24T23:23:32.070900",
+        "product_link": "https://www.amazon.eg/-/en/WEISER-Salicylic-Acid-Cleansing-Prone/dp/B0F5X5M6V9/ref=sr_1_9?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-9",
+        "product_name": "WEISER Salicylic Acid Soap, Cleansing Soap for Acne Prone Skin 45GM",
+        "star_rating": "5.0",
+        "review_title": "تحفه",
+        "category": "Health",
+        "triplets": "[([0], [2], 'POS'), ([0], [8, 9, 10], 'POS')]"
+    },
+    {
+        "review_text": "الصابونه مفيده جدا للبشره الدهنيه",
+        "scraped_at": "2025-12-24T23:23:32.141486",
+        "product_link": "https://www.amazon.eg/-/en/WEISER-Salicylic-Acid-Cleansing-Prone/dp/B0F5X5M6V9/ref=sr_1_9?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-9",
+        "product_name": "WEISER Salicylic Acid Soap, Cleansing Soap for Acne Prone Skin 45GM",
+        "star_rating": "5.0",
+        "review_title": "رائع",
+        "category": "Health",
+        "triplets": "[([0], [1, 3, 4], 'POS')]"
+    },
+    {
+        "review_text": "السيرم قوامه تقيل وبيعمل نضاره فالبشره",
+        "scraped_at": "2025-12-25T00:48:12.866574",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-SERUM-10-VITAMIN-30ML/dp/B0C3425XDC/ref=sr_1_30?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-30",
+        "product_name": "AZHA C SERUM 10% VITAMIN C 30ML",
+        "star_rating": "5.0",
+        "review_title": "جميل",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([0], [3, 4, 5], 'POS')]"
+    },
+    {
+        "review_text": "السيرم جالي غير الي في الصوره وحجمه صغير جدا و مش هقدر اقول التجربه كامله لاني لسه مجربتوش",
+        "scraped_at": "2025-12-25T00:48:12.931467",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-SERUM-10-VITAMIN-30ML/dp/B0C3425XDC/ref=sr_1_30?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-30",
+        "product_name": "AZHA C SERUM 10% VITAMIN C 30ML",
+        "star_rating": "1.0",
+        "review_title": "سئ و الشكل مختلف غير الي في الصوره",
+        "category": "Health",
+        "triplets": "[([0], [2, 3, 4, 5], 'NEG'), ([0], [6, 7], 'NEG'), ([6], [7], 'NEG')]"
+    },
+    {
+        "review_title": "تجربتي مع سيرم AZHA فيتامين سي",
+        "review_text": "بالنسبه للسيرم انا استخدمته اسبوعين وبشرتي بقت نضره و البقع السوده خفت جدا جدا و البشره اتحسنت بشكل واضح . لو هدفكم تفتيح وتقليل تجاعيد ده اختيار ممتاز . لكن لو بشرتكم حساسه جدا ممكن جارنير يكون انسب .",
+        "scraped_at": "2025-12-25T00:48:12.983542",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-SERUM-10-VITAMIN-30ML/dp/B0C3425XDC/ref=sr_1_30?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-30",
+        "product_name": "AZHA C SERUM 10% VITAMIN C 30ML",
+        "star_rating": "5.0",
+        "category": "Health",
+        "triplets": "[([5], [7], 'POS'), ([9, 10], [1], '[POS]'), ([15], [16], 'POS'), ([1], [26, 27], 'POS'), ([26], [27], 'POS'), ([35], [37], 'POS')]"
+    },
+    {
+        "review_text": "بصراحه كنت خايفه استخدم السيرم لان سمعت ريفيوهات مش لطيفه عنه لكنه حلو بصراحه ولطيف علي البشره",
+        "scraped_at": "2025-12-25T00:48:13.051666",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-SERUM-10-VITAMIN-30ML/dp/B0C3425XDC/ref=sr_1_30?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-30",
+        "product_name": "AZHA C SERUM 10% VITAMIN C 30ML",
+        "star_rating": "4.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([4], [2, 3], 'NEG'), ([7], [8, 9], 'NEG'), ([4], [12], 'POS'), ([4], [14], 'POS')]"
+    },
+    {
+        "review_text": "السيرم عامل زي الميه حاسه ملوش مفعول",
+        "scraped_at": "2025-12-25T00:48:13.128635",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-SERUM-10-VITAMIN-30ML/dp/B0C3425XDC/ref=sr_1_30?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-30",
+        "product_name": "AZHA C SERUM 10% VITAMIN C 30ML",
+        "star_rating": "3.0",
+        "review_title": "مش اوي",
+        "category": "Health",
+        "triplets": "[([0], [2, 3], 'NEG'), ([0], [5, 6], 'NEG')]"
+    },
+    {
+        "review_text": "السيرم جميل جدا مقارنه بانواع تانيه",
+        "scraped_at": "2025-12-25T00:48:13.179332",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-SERUM-10-VITAMIN-30ML/dp/B0C3425XDC/ref=sr_1_30?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-30",
+        "product_name": "AZHA C SERUM 10% VITAMIN C 30ML",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS')]"
+    },
+    {
+        "review_text": "السيروم كويس بس حجم العبوه صغير جدا بس لسه هجربه لان سيروم دكتور راشيل معجبنيش كانه مياه سعره في امازون ارخص من بره عليه عرض",
+        "scraped_at": "2025-12-25T00:48:13.280648",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-SERUM-10-VITAMIN-30ML/dp/B0C3425XDC/ref=sr_1_30?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-30",
+        "product_name": "AZHA C SERUM 10% VITAMIN C 30ML",
+        "star_rating": "5.0",
+        "review_title": "Serum vitamin c",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3, 4], [5], 'NEG'), ([11, 12, 13], [14], 'NEG'), ([11, 12, 13], [16], 'NEG'), ([17, 18, 19], [20], 'POS')]"
+    },
+    {
+        "review_text": "السيروم فعلا جميل جدا ومفعوله حلو و الحاجه وصلت زي الفل سليمه",
+        "scraped_at": "2025-12-25T00:38:39.313086",
+        "product_link": "https://www.amazon.eg/-/en/AZHA-Serum-10-Vitamin-60/dp/B0D4M8ZSLR/ref=sr_1_8?crid=3NTJAFMT06GTN&dib=eyJ2IjoiMSJ9.BBbqqL48OgVYIZchwIDGXVYT-cqmB2bhuhMg25n6a4h8u9iNEowNmmp_CGhg6VXDTzUCwhbbcb4rqpa7GNov69gaCwW59ZdIDpwAGvySHOxrmH5f_yv-lbSMXEm0Ie0hcJPJRnb-cbMqLoIXo5-W_WfLTIGNUPnuFAGAme4CAtU9ZvnF5e_8QXLJd1A-LKJHhNCqGx_tEZLCytHjpCTRztakirr-7UlYbalHxOkPhBvUBjE215LnWVUx5KRQL2lHEtnrYFqO1WbMXhgK4e28Qy2awzMqOxFEWxWrBlhMQfU.bD5OZDmy9ZZC19U3SdF__c7PeYJjjdgkUeiOqtfTWR4&dib_tag=se&keywords=vitamin+c+serum&qid=1766572602&sprefix=vitamin+c+se%2Caps%2C326&sr=8-8",
+        "product_name": "AZHA C Serum 10% Vitamin C - 60 mL 1+1",
+        "star_rating": "5.0",
+        "review_title": "هو سيرم ازهي جميل و فعلا بيدي الوجه بياض ونضارة حلوه اوي",
+        "category": "Health",
+        "triplets": "[([0], [2], 'POS'), ([4], [5], 'POS'), ([7], [9, 10], 'POS'), ([7], [11], 'POS'), ([0], [4, 5], 'POS')]"
+    },
+    {
+        "review_text": "المرطب كويس بس بيحرق في الاول و بياكسدني موت",
+        "scraped_at": "2025-12-23T20:05:20.802683",
+        "product_link": "https://www.amazon.eg/-/en/Alejon-Peel-Mask-Aloe-Omega/dp/B0BSLVS76B/ref=sr_1_55?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-55",
+        "product_name": "Alejon Peel Off Mask (Aloe Vera & Omega 3,6) 120 Ml",
+        "star_rating": "3.0",
+        "review_title": ".",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3], 'NEG'), ([0], [7, 8], 'NEG')]"
+    },
+    {
+        "review_text": "للاسف لما جربت الماسك لقيت ريحته كحول رهيبه مش طبيعيه مع ان مش مكتوب عالعبوه ان من مكوناته الكحول",
+        "scraped_at": "2025-12-23T20:05:20.909828",
+        "product_link": "https://www.amazon.eg/-/en/Alejon-Peel-Mask-Aloe-Omega/dp/B0BSLVS76B/ref=sr_1_55?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-55",
+        "product_name": "Alejon Peel Off Mask (Aloe Vera & Omega 3,6) 120 Ml",
+        "star_rating": "2.0",
+        "review_title": "المكونات مش مكتوبه كلها عالعبوه",
+        "category": "Health",
+        "triplets": "[([3], [5, 6, 7], 'NEG'), ([5], [6, 7], 'NEG')]"
+    },
+    {
+        "review_text": "ماسك حلو جدا بيعمل نضاره وبحس بشرتي صافيه ونضيفه بعده و مش بينشف الوش خالص",
+        "scraped_at": "2025-12-23T20:01:18.490625",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Natural-Activated-Charcoal-oxidants/dp/B0BRQTB3BP/ref=sr_1_45?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-45",
+        "product_name": "Astroida Carbon Mask with Natural Activated Charcoal & Anti oxidants - 10 Minutes Mask - Removes Impurities from Skin pores, Protects against Acne & Face Oxidation, Removes Free Radicals -120gm 4Oz",
+        "star_rating": "5.0",
+        "review_title": "حلو اوي",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4], 'POS'), ([6], [7], 'POS'), ([6], [8], 'POS'), ([0], [11, 12], 'POS')]"
+    },
+    {
+        "review_text": "مكان و منتج موثوق فيه و جربت كذا حاجه من عندهم و فعلا المنتجات بتجيب نتيجه حلوه",
+        "scraped_at": "2025-12-23T20:01:18.615310",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Natural-Activated-Charcoal-oxidants/dp/B0BRQTB3BP/ref=sr_1_45?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-45",
+        "product_name": "Astroida Carbon Mask with Natural Activated Charcoal & Anti oxidants - 10 Minutes Mask - Removes Impurities from Skin pores, Protects against Acne & Face Oxidation, Removes Free Radicals -120gm 4Oz",
+        "star_rating": "5.0",
+        "review_title": "حلو اوي",
+        "category": "Health",
+        "triplets": "[([0], [3], 'POS'), ([2], [3], 'POS'), ([13], [14, 15, 16], 'POS')]"
+    },
+    {
+        "review_text": "الصن بلوك بيطلع حبوب ودهني علي البشره",
+        "scraped_at": "2025-12-23T20:01:18.674282",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Natural-Activated-Charcoal-oxidants/dp/B0BRQTB3BP/ref=sr_1_45?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-45",
+        "product_name": "Astroida Carbon Mask with Natural Activated Charcoal & Anti oxidants - 10 Minutes Mask - Removes Impurities from Skin pores, Protects against Acne & Face Oxidation, Removes Free Radicals -120gm 4Oz",
+        "star_rating": "1.0",
+        "review_title": "غير مناسب للبشرة المختلطة والدهنية",
+        "category": "Health",
+        "triplets": "[([0, 1], [2, 3], 'NEG'), ([0, 1], [4], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك جميل جدا وبيرطب البشره",
+        "scraped_at": "2025-12-23T19:58:52.944249",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Collagen-Hyaluronic-Colloidal-Caffeine/dp/B0BRQRP3Z7/ref=sr_1_39?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-39",
+        "product_name": "Astroida Golden Mask 120gm 4Oz With Collagen, Hyaluronic acid, Colloidal Gold, Caffeine, Olive Oil - Anti Aging, Anti Wrinkles, Anti oxidant, Source of vitamins to nourish your skin",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3], 'POS')]"
+    },
+    {
+        "review_text": "السيرم بيخلي الوش مترطب كذا يوم و معمليش حبوب مع ان بشرتي دهنيه جدا ، سيرم حلو اوي بجد",
+        "scraped_at": "2025-12-23T19:58:53.015076",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Collagen-Hyaluronic-Colloidal-Caffeine/dp/B0BRQRP3Z7/ref=sr_1_39?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-39",
+        "product_name": "Astroida Golden Mask 120gm 4Oz With Collagen, Hyaluronic acid, Colloidal Gold, Caffeine, Olive Oil - Anti Aging, Anti Wrinkles, Anti oxidant, Source of vitamins to nourish your skin",
+        "star_rating": "4.0",
+        "review_title": "حلو اووووي",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'POS'), ([0], [7, 8], 'POS'), ([15], [16], 'POS')]"
+    },
+    {
+        "review_text": "الماسك بيرطب ويعمل نضاره للوش",
+        "scraped_at": "2025-12-23T19:58:53.066686",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Collagen-Hyaluronic-Colloidal-Caffeine/dp/B0BRQRP3Z7/ref=sr_1_39?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-39",
+        "product_name": "Astroida Golden Mask 120gm 4Oz With Collagen, Hyaluronic acid, Colloidal Gold, Caffeine, Olive Oil - Anti Aging, Anti Wrinkles, Anti oxidant, Source of vitamins to nourish your skin",
+        "star_rating": "5.0",
+        "review_title": "جميل اوي",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3], 'POS')]"
+    },
+    {
+        "review_text": "المنتج تسببلي في حبوب في وشي بقالها معايا اكتر من شهر مراحتش",
+        "scraped_at": "2025-12-23T19:58:53.121686",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Collagen-Hyaluronic-Colloidal-Caffeine/dp/B0BRQRP3Z7/ref=sr_1_39?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-39",
+        "product_name": "Astroida Golden Mask 120gm 4Oz With Collagen, Hyaluronic acid, Colloidal Gold, Caffeine, Olive Oil - Anti Aging, Anti Wrinkles, Anti oxidant, Source of vitamins to nourish your skin",
+        "star_rating": "2.0",
+        "review_title": "بيعمل حبوب",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'NEG')]"
+    },
+    {
+        "review_text": "ماسك حلو ومختلف عن كل ماسكات الكولاجين الي جربنها",
+        "scraped_at": "2025-12-23T19:58:53.203684",
+        "product_link": "https://www.amazon.eg/-/en/Astroida-Collagen-Hyaluronic-Colloidal-Caffeine/dp/B0BRQRP3Z7/ref=sr_1_39?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-39",
+        "product_name": "Astroida Golden Mask 120gm 4Oz With Collagen, Hyaluronic acid, Colloidal Gold, Caffeine, Olive Oil - Anti Aging, Anti Wrinkles, Anti oxidant, Source of vitamins to nourish your skin",
+        "star_rating": "5.0",
+        "review_title": "حلو جدا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS')]"
+    },
+    {
+        "review_text": "ماسك معقول في تنضيف البشره وسعره كويس",
+        "scraped_at": "2025-12-23T20:13:28.911314",
+        "product_link": "https://www.amazon.eg/-/en/BOBANA-Dead-sea-salts-mask/dp/B0114C3ME8/ref=sr_1_15?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-15",
+        "product_name": "BOBANA- Dead sea salts mud mask, 400 gm",
+        "star_rating": "5.0",
+        "review_title": "مناسب بالنسبه لسعره",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEU'), ([0], [5, 6], 'POS'), ([5], [6], 'POS')]"
+    },
+    {
+        "review_text": "ماسك كويس و ترطيب حلو بس بيحرق شويه و انا حطاه",
+        "scraped_at": "2025-12-23T20:13:29.021487",
+        "product_link": "https://www.amazon.eg/-/en/BOBANA-Dead-sea-salts-mask/dp/B0114C3ME8/ref=sr_1_15?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-15",
+        "product_name": "BOBANA- Dead sea salts mud mask, 400 gm",
+        "star_rating": "3.0",
+        "review_title": "كويس",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3], [4], 'POS'), ([0], [6], 'NEG')]"
+    },
+    {
+        "review_text": "غسول مينفعش للوش نهائي بالذات اللي بشرتهم حساسه",
+        "scraped_at": "2025-12-23T20:13:29.081047",
+        "product_link": "https://www.amazon.eg/-/en/BOBANA-Dead-sea-salts-mask/dp/B0114C3ME8/ref=sr_1_15?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-15",
+        "product_name": "BOBANA- Dead sea salts mud mask, 400 gm",
+        "star_rating": "1.0",
+        "review_title": "، حطيته على وشي حسس وشي و خلاه ملتهب",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG')]"
+    },
+    {
+        "review_text": "غسول رائع وعجبني جدا للبشره الدهنيه بينظف بعمق",
+        "scraped_at": "2025-12-23T20:13:29.145314",
+        "product_link": "https://www.amazon.eg/-/en/BOBANA-Dead-sea-salts-mask/dp/B0114C3ME8/ref=sr_1_15?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-15",
+        "product_name": "BOBANA- Dead sea salts mud mask, 400 gm",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS'), ([0], [6], 'POS')]"
+    },
+    {
+        "review_text": "الفيتامين سي سيرم بيدي نضاره بس مش قوي وملوش اي تاثير علي المدي الطويل",
+        "scraped_at": "2025-12-23T19:59:17.202835",
+        "product_link": "https://www.amazon.eg/-/en/BOBANA-MASK-MILK-WHITENING-VITAMIN/dp/B0114CEM5G/ref=sr_1_40?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-40",
+        "product_name": "BOBANA MASK MILK WHITENING VITAMIN C",
+        "star_rating": "2.0",
+        "review_title": "ملوش تأثير",
+        "category": "Health",
+        "triplets": "[([0, 1, 2], [3, 4], 'POS'), ([0, 1, 2], [6, 7], 'NEG'), ([0, 1, 2], [8, 9, 10, 11, 12, 13], 'NEG')]"
+    },
+    {
+        "review_text": "الكريم مش حلو و مش بيفتح و لا اي حاجه و بيحسس",
+        "scraped_at": "2025-12-23T19:59:17.261882",
+        "product_link": "https://www.amazon.eg/-/en/BOBANA-MASK-MILK-WHITENING-VITAMIN/dp/B0114CEM5G/ref=sr_1_40?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-40",
+        "product_name": "BOBANA MASK MILK WHITENING VITAMIN C",
+        "star_rating": "1.0",
+        "review_title": "بيعمل حساسيه",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG'), ([0], [4, 5], 'NEG'), ([0], [11], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج جاي مفتوح ومبهدل الدنيا",
+        "scraped_at": "2025-12-23T19:59:17.317653",
+        "product_link": "https://www.amazon.eg/-/en/BOBANA-MASK-MILK-WHITENING-VITAMIN/dp/B0114CEM5G/ref=sr_1_40?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-40",
+        "product_name": "BOBANA MASK MILK WHITENING VITAMIN C",
+        "star_rating": "1.0",
+        "review_title": "ماسك التفتيح البشره",
+        "category": "Health",
+        "triplets": "[([0], [2], 'NEG'), ([0], [3, 4], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك حلو و مقبول بيخلي البشره حلوه جدا بس لفتره موقته",
+        "scraped_at": "2025-12-23T19:46:47.327657",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-charcoal-peel-face-mask/dp/B0114C1W40/ref=sr_1_6?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-6",
+        "product_name": "Bobana- charcoal peel off face mask, 120 gm",
+        "star_rating": "4.0",
+        "review_title": "مقبول",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3], 'POS'), ([0], [4, 5, 6], 'POS')]"
+    },
+    {
+        "review_text": "الماسك خلي بشرتي ناعمه ، هطلبه تاني",
+        "scraped_at": "2025-12-23T19:46:47.395254",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-charcoal-peel-face-mask/dp/B0114C1W40/ref=sr_1_6?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-6",
+        "product_name": "Bobana- charcoal peel off face mask, 120 gm",
+        "star_rating": "5.0",
+        "review_title": "عااااااااظييييييييم",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'POS'), ([0], [5, 6], 'POS')]"
+    },
+    {
+        "review_text": "الماسك خفيف و مش قوي كنت بستخدم واحد تاني احسن منه",
+        "scraped_at": "2025-12-23T19:46:47.446916",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-charcoal-peel-face-mask/dp/B0114C1W40/ref=sr_1_6?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-6",
+        "product_name": "Bobana- charcoal peel off face mask, 120 gm",
+        "star_rating": "3.0",
+        "review_title": "استخدمته",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [3, 4], 'NEG')]"
+    },
+    {
+        "review_text": "الاوردر وصل فاضي من غير الماسك",
+        "scraped_at": "2025-12-23T19:46:47.514208",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-charcoal-peel-face-mask/dp/B0114C1W40/ref=sr_1_6?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-6",
+        "product_name": "Bobana- charcoal peel off face mask, 120 gm",
+        "star_rating": "1.0",
+        "review_title": "لم يتم الاستلام ودفعت الحساب كامل",
+        "category": "Health",
+        "triplets": "[([0], [2], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج ممتاز جدا ، و انصح بشرائه",
+        "scraped_at": "2025-12-23T19:57:16.652575",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-Gold-face-mask-120/dp/B083V83NFS/ref=sr_1_35?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-35",
+        "product_name": "Bobana Gold face mask,120 g",
+        "star_rating": "5.0",
+        "review_title": "المنوفية مدينة السادات",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [5, 6], 'POS')]"
+    },
+    {
+        "review_text": "الماسك كبير وجميل جدا وسعره كويس",
+        "scraped_at": "2025-12-23T19:57:16.781537",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-Gold-face-mask-120/dp/B083V83NFS/ref=sr_1_35?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-35",
+        "product_name": "Bobana Gold face mask,120 g",
+        "star_rating": "5.0",
+        "review_title": "الحجم كويس جدا والمنتج تحفه",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS'), ([0], [4, 5], 'POS'), ([4], [5], 'POS')]"
+    },
+    {
+        "review_text": "الماسك ممتاز حقيقي بالنسبه لسعره 20 جنيه",
+        "scraped_at": "2025-12-23T19:57:16.829881",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-Gold-face-mask-120/dp/B083V83NFS/ref=sr_1_35?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-35",
+        "product_name": "Bobana Gold face mask,120 g",
+        "star_rating": "5.0",
+        "review_title": "قيمة مقابل سعر",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS')]"
+    },
+    {
+        "review_text": "الماسك حلو اوي و مش بيطلع حبوب",
+        "scraped_at": "2025-12-23T20:00:06.158051",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-charcoal-sheet-mask/dp/B0114E67CA/ref=sr_1_42?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-42",
+        "product_name": "Bobana charcoal sheet mask",
+        "star_rating": "5.0",
+        "review_title": "حلو اوي",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4, 5, 6], 'POS')]"
+    },
+    {
+        "review_text": "الماسك اكنه ورقه مبلوله كريم و مقاسه صعب جدا مش زي اي ماسك شيت خالص ده مغطي الحواجب و كبير مفيش فرصه يتطبق علي الوش و مش محتفظ بالسائل زي اي ماسك من الانواع المعروفه",
+        "scraped_at": "2025-12-23T20:00:06.424859",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-charcoal-sheet-mask/dp/B0114E67CA/ref=sr_1_42?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-42",
+        "product_name": "Bobana charcoal sheet mask",
+        "star_rating": "1.0",
+        "review_title": "سئء جدا",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'NEG'), ([0], [6, 7], 'NEG'), ([6], [7], 'NEG'), ([0], [19, 20, 21, 22, 23, 24], 'NEG'), ([0], [26, 27, 28], 'NEG')]"
+    },
+    {
+        "review_text": "ماسك حلو جدا و مش هبطل اطلبه الصراحه",
+        "scraped_at": "2025-12-23T19:54:26.142805",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-mask-hyaluronic-acid-peel-off/dp/B0B4P68DKZ/ref=sr_1_28?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-28",
+        "product_name": "Bobana mask hyaluronic acid peel-off 120 ml",
+        "star_rating": "4.0",
+        "review_title": "حلووووو جداا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4, 5, 6], 'POS')]"
+    },
+    {
+        "review_text": "المنتج وصل زي الصور ، تاريخ صلاحيه جديد ، سعر جيد . شكرا امازون ، التوصيل سريع ، احترافيه في التعامل",
+        "scraped_at": "2025-12-23T19:54:26.209377",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-mask-hyaluronic-acid-peel-off/dp/B0B4P68DKZ/ref=sr_1_28?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-28",
+        "product_name": "Bobana mask hyaluronic acid peel-off 120 ml",
+        "star_rating": "5.0",
+        "review_title": "المنتج كما ف الوصف",
+        "category": "Health",
+        "triplets": "[([0], [2, 3], 'POS'), ([5, 6], [7], 'POS'), ([9], [10], 'POS'), ([15], [16], 'POS')]"
+    },
+    {
+        "review_text": "الماسك ملوش اي لازمه نهائيا و كمان طلعلي حبوب",
+        "scraped_at": "2025-12-23T19:54:26.264448",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-mask-hyaluronic-acid-peel-off/dp/B0B4P68DKZ/ref=sr_1_28?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-28",
+        "product_name": "Bobana mask hyaluronic acid peel-off 120 ml",
+        "star_rating": "1.0",
+        "review_title": "ضعيف جدا.. فلوس عالارض",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'NEG'), ([0], [7, 8], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك بيرطب و الخامه بتاعته و الرائحه و الترطيب حلوين جدا",
+        "scraped_at": "2025-12-23T19:46:22.611794",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-Clock3426-pomegranate-sheet-mask/dp/B0114E6I7E/ref=sr_1_5?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-5",
+        "product_name": "Bobana pomegranate sheet mask",
+        "star_rating": "5.0",
+        "review_title": "يرطب ومناسب للبشره المختلطه",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3, 6, 8], [9], 'POS')]"
+    },
+    {
+        "review_text": "الماسك تحفه بيخلي وشي بيلمع لمده اسبوع",
+        "scraped_at": "2025-12-23T19:46:22.680787",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-Clock3426-pomegranate-sheet-mask/dp/B0114E6I7E/ref=sr_1_5?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-5",
+        "product_name": "Bobana pomegranate sheet mask",
+        "star_rating": "5.0",
+        "review_title": "تحفه",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3, 4], 'POS')]"
+    },
+    {
+        "review_text": "ماسك جميل جدا وبيعطي الوجه اشراقه ونعومه انصح بشراءه",
+        "scraped_at": "2025-12-23T19:46:22.734528",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-Clock3426-pomegranate-sheet-mask/dp/B0114E6I7E/ref=sr_1_5?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-5",
+        "product_name": "Bobana pomegranate sheet mask",
+        "star_rating": "5.0",
+        "review_title": "قناع رائع",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4, 5, 6], 'POS'), ([0], [7, 8], 'POS')]"
+    },
+    {
+        "review_text": "ماسك وحش جدا حرق وشي و غمقه",
+        "scraped_at": "2025-12-23T19:46:22.862428",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-Clock3426-pomegranate-sheet-mask/dp/B0114E6I7E/ref=sr_1_5?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-5",
+        "product_name": "Bobana pomegranate sheet mask",
+        "star_rating": "1.0",
+        "review_title": "Bobana",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [3, 4, 5, 6], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج مش بيعمل اي حاجه فلوس ع الفاضي",
+        "scraped_at": "2025-12-23T19:47:11.481162",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-vitamin-c-sheet-mask/dp/B0114E6PQI/ref=sr_1_7?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-7",
+        "product_name": "Bobana vitamin c sheet mask",
+        "star_rating": "1.0",
+        "review_title": "ملوش لازمه",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'NEG')]"
+    },
+    {
+        "review_text": "الكيس جالي فاضي مفيهوش الشييت",
+        "scraped_at": "2025-12-23T19:47:11.540095",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-vitamin-c-sheet-mask/dp/B0114E6PQI/ref=sr_1_7?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-7",
+        "product_name": "Bobana vitamin c sheet mask",
+        "star_rating": "1.0",
+        "review_title": "الكيس جالى فاضى",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG'), ([0], [3, 4], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك مفعوله فوري بس محتاج استمرار عليه",
+        "scraped_at": "2025-12-23T19:47:11.604339",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-vitamin-c-sheet-mask/dp/B0114E6PQI/ref=sr_1_7?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-7",
+        "product_name": "Bobana vitamin c sheet mask",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([1], [2], 'POS'), ([0], [4, 5], 'NEU')]"
+    },
+    {
+        "review_text": "الماسك سهل الاستعمال ، ريحته منعشه ، نتيجته ملحوظه",
+        "scraped_at": "2025-12-23T19:51:14.355830",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-whitening-milk-menthol-250gm/dp/B0114E0CJ4/ref=sr_1_19?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-19",
+        "product_name": "Bobana whitening milk mask, with menthol 250gm",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([0], [4, 5], 'POS'), ([4], [5], 'POS'), ([0], [7, 8], 'POS'), ([7], [8], 'POS')]"
+    },
+    {
+        "review_text": "الماسك مش كويس خالص ريحته مش كويسه و لما حطيته علي بشرتي كان بيحرقها اوي و بعد ما غسلته و شيلته ساب بشرتي متحسسه و محمره و تاني يوم و شي بقي ملمسه خشن و لحد النهارده دا تقريبا اليوم الخامس ولسه ملمس بشرتي خشن و قولت يمكن المشكله من عندي ماما بردو جربته و عملها حرقان في بشرتها و هي حطاه",
+        "scraped_at": "2025-12-23T19:51:14.420989",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-whitening-milk-menthol-250gm/dp/B0114E0CJ4/ref=sr_1_19?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-19",
+        "product_name": "Bobana whitening milk mask, with menthol 250gm",
+        "star_rating": "1.0",
+        "review_title": "مش كويس وفري فلوسك متطلبهوش",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG'), ([0], [4, 5, 6], 'NEG'), ([4], [5, 6], 'NEG'), ([0], [11, 12, 13], 'NEG'), ([0], [21, 22, 23, 24, 25], 'NEG'), ([29, 30], [32, 33], 'NEG'), ([42, 43], [44], 'NEG'), ([51], [55, 56], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك بيرطب حلو وينفع للجسم و الايدين",
+        "scraped_at": "2025-12-23T19:51:14.480615",
+        "product_link": "https://www.amazon.eg/-/en/Bobana-whitening-milk-menthol-250gm/dp/B0114E0CJ4/ref=sr_1_19?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-19",
+        "product_name": "Bobana whitening milk mask, with menthol 250gm",
+        "star_rating": "4.0",
+        "review_title": "جيد جداً",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([0], [3, 4, 5, 6], 'POS')]"
+    },
+    {
+        "review_text": "المنتج جيد لكن العدد جالي ناقص 3 وحدات",
+        "scraped_at": "2025-12-23T19:49:13.644292",
+        "product_link": "https://www.amazon.eg/-/en/Chaojinvsheng-Compressed-Face-Mask-Sheets/dp/B091J92WBV/ref=sr_1_13?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-13",
+        "product_name": "DIY Compressed Face Mask Sheets - 100 Pieces",
+        "star_rating": "3.0",
+        "review_title": "منتج جيد و فكرته خلوه",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3], [5], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج عملي للماسكات ، لكن بيشرب سيروم كتير",
+        "scraped_at": "2025-12-23T19:49:13.702183",
+        "product_link": "https://www.amazon.eg/-/en/Chaojinvsheng-Compressed-Face-Mask-Sheets/dp/B091J92WBV/ref=sr_1_13?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-13",
+        "product_name": "DIY Compressed Face Mask Sheets - 100 Pieces",
+        "star_rating": "4.0",
+        "review_title": "جيد جدا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [5, 6], 'NEG')]"
+    },
+    {
+        "review_text": "الكميه مناسبه و المنتج تحت التجربه",
+        "scraped_at": "2025-12-23T19:49:13.821373",
+        "product_link": "https://www.amazon.eg/-/en/Chaojinvsheng-Compressed-Face-Mask-Sheets/dp/B091J92WBV/ref=sr_1_13?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-13",
+        "product_name": "DIY Compressed Face Mask Sheets - 100 Pieces",
+        "star_rating": "5.0",
+        "review_title": "كميه كبيره",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3], [4, 5], 'NEU')]"
+    },
+    {
+        "review_text": "الماسك جبار في ازاله الرؤوس السوده و الله العظيم عكس التوقع",
+        "scraped_at": "2025-12-23T19:55:39.196451",
+        "product_link": "https://www.amazon.eg/-/en/Eva-Clinic-Anti-Ageing-Collagen-Peel-Off/dp/B09X7F8MMM/ref=sr_1_31?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-31",
+        "product_name": "Eva Skin Clinic Anti-Ageing Gold Collagen Peel-Off Face Mask 100 ml",
+        "star_rating": "5.0",
+        "review_title": "ممتااااااااز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS')]"
+    },
+    {
+        "review_text": "الماسك اثره علي البشره نضاره و تنظيف عميق في فرق بجد بعد الاستخدام هشتريه كل ما يخلص بس هو غالي علي حجمه",
+        "scraped_at": "2025-12-23T19:55:39.274132",
+        "product_link": "https://www.amazon.eg/-/en/Eva-Clinic-Anti-Ageing-Collagen-Peel-Off/dp/B09X7F8MMM/ref=sr_1_31?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-31",
+        "product_name": "Eva Skin Clinic Anti-Ageing Gold Collagen Peel-Off Face Mask 100 ml",
+        "star_rating": "5.0",
+        "review_title": "رائع",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'POS'), ([0], [19], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك بيدي لمعه وترطيب ونعومه خطيره للبشره",
+        "scraped_at": "2025-12-23T19:55:14.960035",
+        "product_link": "https://www.amazon.eg/-/en/Eva-Clinic-Charcoal-Sheet-Masks/dp/B09W9XB694/ref=sr_1_30?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-30",
+        "product_name": "Eva Skin Clinic Charcoal Sheet Mask ( 3 Sheet Masks )",
+        "star_rating": "5.0",
+        "review_title": "احسن حاجه لو عايزه Glass skin",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'POS')]"
+    },
+    {
+        "review_text": "ماسك جميل ، بشرتك بيبقي شكلها تحفه بعديها",
+        "scraped_at": "2025-12-23T19:55:15.024648",
+        "product_link": "https://www.amazon.eg/-/en/Eva-Clinic-Charcoal-Sheet-Masks/dp/B09W9XB694/ref=sr_1_30?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-30",
+        "product_name": "Eva Skin Clinic Charcoal Sheet Mask ( 3 Sheet Masks )",
+        "star_rating": "5.0",
+        "review_title": "جميلل",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([3], [5, 6], 'POS')]"
+    },
+    {
+        "review_text": "بشرتي مختلطه ، تاثير الماسك ممتاز معايا",
+        "scraped_at": "2025-12-23T19:55:15.079470",
+        "product_link": "https://www.amazon.eg/-/en/Eva-Clinic-Charcoal-Sheet-Masks/dp/B09W9XB694/ref=sr_1_30?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-30",
+        "product_name": "Eva Skin Clinic Charcoal Sheet Mask ( 3 Sheet Masks )",
+        "star_rating": "4.0",
+        "review_title": "حلو جدا",
+        "category": "Health",
+        "triplets": "[([3, 4], [5], 'POS')]"
+    },
+    {
+        "review_text": "الماسك بيرطب بس مش اوي وبيسيب ملمس تلزيق شويه علي البشره بس بيروح لما تحطي المرطب فوقيه",
+        "scraped_at": "2025-12-23T19:47:36.012767",
+        "product_link": "https://www.amazon.eg/-/en/Eva-Clinic-Hyaluronic-Sheet-Masks/dp/B09V5MQF5J/ref=sr_1_9?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-9",
+        "product_name": "Eva Skin Clinic Hyaluronic Sheet Mask ( 3 Sheet Masks )",
+        "star_rating": "3.0",
+        "review_title": "احتمال ضعيف اشتريه تاني",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3, 4], 'NEU'), ([0], [5, 6, 7], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك حلو ، مرطب للوجه و منعش",
+        "scraped_at": "2025-12-23T19:47:36.102231",
+        "product_link": "https://www.amazon.eg/-/en/Eva-Clinic-Hyaluronic-Sheet-Masks/dp/B09V5MQF5J/ref=sr_1_9?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-9",
+        "product_name": "Eva Skin Clinic Hyaluronic Sheet Mask ( 3 Sheet Masks )",
+        "star_rating": "5.0",
+        "review_title": "عجبنى جدا",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4], 'POS'), ([0], [6], 'POS')]"
+    },
+    {
+        "review_text": "الماسك تحفه بيبيض جامد ويرطب بس التاثير لحظي طبعا هيختفي لما تغسلي وشك",
+        "scraped_at": "2025-12-23T19:53:13.639571",
+        "product_link": "https://www.amazon.eg/-/en/Eva-clinic-white-pearl-sheet/dp/B09V5NRPWR/ref=sr_1_25?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-25",
+        "product_name": "Eva skin clinic white pearl sheet mask( 3 sheet)",
+        "star_rating": "5.0",
+        "review_title": "اجمل شيت ماسك",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS'), ([0], [4], 'POS'), ([6], [7], 'NEG')]"
+    },
+    {
+        "review_text": "اللي بشرته حساسه هيحرقه اول مره اشوف ماسك بيحرق",
+        "scraped_at": "2025-12-23T19:53:13.710186",
+        "product_link": "https://www.amazon.eg/-/en/Eva-clinic-white-pearl-sheet/dp/B09V5NRPWR/ref=sr_1_25?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-25",
+        "product_name": "Eva skin clinic white pearl sheet mask( 3 sheet)",
+        "star_rating": "2.0",
+        "review_title": "بيحرق",
+        "category": "Health",
+        "triplets": "[([7], [8], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك حلو اوي في ترطيب البشره",
+        "scraped_at": "2025-12-23T19:56:03.399515",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-Moisturizing-Hydra-Tissue-Pomegranate/dp/B077SRHKJS/ref=sr_1_32?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-32",
+        "product_name": "Garnier Moisturizing Hydra Bomb Tissue Mask With Pomegranate",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS')]"
+    },
+    {
+        "review_text": "السيروم لونه ابيض فبستخدمه قبل ما اخرج عشان يدي اشراقه بسيطه لكن مجرد ما بيتغسل و لا كانك عملتي حاجه و لا بيفتح و لاغيره",
+        "scraped_at": "2025-12-23T19:56:03.527429",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-Moisturizing-Hydra-Tissue-Pomegranate/dp/B077SRHKJS/ref=sr_1_32?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-32",
+        "product_name": "Garnier Moisturizing Hydra Bomb Tissue Mask With Pomegranate",
+        "star_rating": "3.0",
+        "review_title": "بيفتح وانتى حطاه بس",
+        "category": "Health",
+        "triplets": "[([0], [8, 9, 10], 'POS'), ([0], [21, 22], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج اصلي و كما في الوصف تماما",
+        "scraped_at": "2025-12-23T19:56:03.589138",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-Moisturizing-Hydra-Tissue-Pomegranate/dp/B077SRHKJS/ref=sr_1_32?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-32",
+        "product_name": "Garnier Moisturizing Hydra Bomb Tissue Mask With Pomegranate",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4, 5], 'POS')]"
+    },
+    {
+        "review_text": "الماسك سئ للبشره بيطلع حبوب لا تفتيح و لا ترطيب وبيحرق الجلد وبيخليه يلتهب كبشره مختلطه مستحيل اكرره",
+        "scraped_at": "2025-12-23T19:56:03.637829",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-Moisturizing-Hydra-Tissue-Pomegranate/dp/B077SRHKJS/ref=sr_1_32?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-32",
+        "product_name": "Garnier Moisturizing Hydra Bomb Tissue Mask With Pomegranate",
+        "star_rating": "1.0",
+        "review_title": "Worst mask",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [3, 4], 'NEG'), ([0], [5, 6], 'NEG'), ([0], [8, 9], 'NEG'), ([0], [10, 11], 'NEG')]"
+    },
+    {
+        "review_text": "انصح بشيتات الماسك عشان بستخدمها من فتره طويله وبانتظام و سعرها نوعا ما مناسب بالمقارنه من السوبر ماركت",
+        "scraped_at": "2025-12-23T19:56:03.697702",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-Moisturizing-Hydra-Tissue-Pomegranate/dp/B077SRHKJS/ref=sr_1_32?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-32",
+        "product_name": "Garnier Moisturizing Hydra Bomb Tissue Mask With Pomegranate",
+        "star_rating": "5.0",
+        "review_title": "ممتازه",
+        "category": "Health",
+        "triplets": "[([1, 2], [0], 'POS'), ([1, 2], [10, 13], 'POS'), ([10], [13], 'POS')]"
+    },
+    {
+        "review_text": "الماسك بيقلل مظهر المسام وبيرطب الوجه لكن بيقعد يومين بالكتير مش اسبوع",
+        "scraped_at": "2025-12-23T19:48:48.683749",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-tightening-charcoal-hydrating-tissue/dp/B07PG9BL4H/ref=sr_1_12?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-12",
+        "product_name": "Garnier pore tightening pure charcoal hydrating face tissue mask",
+        "star_rating": "5.0",
+        "review_title": "جميل",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'POS'), ([0], [4, 5], 'POS'), ([0], [7, 8, 9, 10, 11], 'NEG')]"
+    },
+    {
+        "review_text": "ماسك حلو و ليه فاعليه",
+        "scraped_at": "2025-12-23T19:48:48.745390",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-tightening-charcoal-hydrating-tissue/dp/B07PG9BL4H/ref=sr_1_12?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-12",
+        "product_name": "Garnier pore tightening pure charcoal hydrating face tissue mask",
+        "star_rating": "4.0",
+        "review_title": "بيرطب و بيفتح",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4], 'POS')]"
+    },
+    {
+        "review_text": "الماسك تاثيره مؤقت لوقت قصير جدا",
+        "scraped_at": "2025-12-23T19:48:48.797973",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-tightening-charcoal-hydrating-tissue/dp/B07PG9BL4H/ref=sr_1_12?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-12",
+        "product_name": "Garnier pore tightening pure charcoal hydrating face tissue mask",
+        "star_rating": "3.0",
+        "review_title": "جيد",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG'), ([1], [2], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج غني عن التعريف و السعر ممتاز",
+        "scraped_at": "2025-12-23T19:48:48.908329",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-tightening-charcoal-hydrating-tissue/dp/B07PG9BL4H/ref=sr_1_12?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-12",
+        "product_name": "Garnier pore tightening pure charcoal hydrating face tissue mask",
+        "star_rating": "5.0",
+        "review_title": "المنتج غني عن التعريف والسعر ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1, 2, 3], 'POS'), ([5], [6], 'POS')]"
+    },
+    {
+        "review_text": "المنتج اصلي وممتاز للبشره الدهنيه السعر ارخص من اي صيدليه او سوبر ماركت الريحه جميله جدا شكرا امازون",
+        "scraped_at": "2025-12-23T19:48:49.051257",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-tightening-charcoal-hydrating-tissue/dp/B07PG9BL4H/ref=sr_1_12?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-12",
+        "product_name": "Garnier pore tightening pure charcoal hydrating face tissue mask",
+        "star_rating": "5.0",
+        "review_title": "ماسك غارنيه الرائع بشره دهنيه",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3, 4], 'POS'), ([5], [6], 'POS'), ([13], [14], 'POS')]"
+    },
+    {
+        "review_text": "الماسك ترطيبه حلو صح بس اما شي ثاني كله جذب و بس",
+        "scraped_at": "2025-12-23T19:48:49.293662",
+        "product_link": "https://www.amazon.eg/-/en/Garnier-tightening-charcoal-hydrating-tissue/dp/B07PG9BL4H/ref=sr_1_12?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-12",
+        "product_name": "Garnier pore tightening pure charcoal hydrating face tissue mask",
+        "star_rating": "4.0",
+        "review_title": "لاباس به",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'POS'), ([8], [9, 10, 11], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك ممتاز احساس مختلف بنقاء البشره",
+        "scraped_at": "2025-12-23T19:45:58.242111",
+        "product_link": "https://www.amazon.eg/MASK-Collection-Facial-Sheet-Masks/dp/B0F5NZXMFT/ref=sr_1_4_sspa?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask,aps,485&sr=8-4-spons&aref=JxGs5PRCws&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "product_name": "MASK Skin Collection Facial Sheet Masks - Unscented Caviar Essence Spa Masks Packed w/Omega-3s - Nourish, Revitalize & Hydrate Your - Suitable for All Type-black snail",
+        "star_rating": "5.0",
+        "review_title": "ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([2], [3, 4, 5], 'POS')]"
+    },
+    {
+        "review_text": "الماسك الصراحه معملش اي فرق ، مش حلو",
+        "scraped_at": "2025-12-23T19:51:38.287477",
+        "product_link": "https://www.amazon.eg/MASK-Collection-Facial-Sheet-Masks/dp/B0DX2KGKHL/ref=sr_1_21_sspa?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask,aps,485&sr=8-21-spons&aref=3i1ixFXObx&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1",
+        "product_name": "MASK Skin Collection Facial Sheet Masks - Unscented Caviar Essence Spa Masks Packed w/Omega-3s - Nourish, Revitalize & Hydrate Your - Suitable for All Type-PEARL",
+        "star_rating": "1.0",
+        "review_title": "غير مهم",
+        "category": "Health",
+        "triplets": "[([0], [2, 3, 4], 'NEG'), ([0], [6, 7], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج وحش جدا وملوش اي لازمه",
+        "scraped_at": "2025-12-23T19:51:38.349975",
+        "product_link": "https://www.amazon.eg/MASK-Collection-Facial-Sheet-Masks/dp/B0DX2KGKHL/ref=sr_1_21_sspa?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask,aps,485&sr=8-21-spons&aref=3i1ixFXObx&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1",
+        "product_name": "MASK Skin Collection Facial Sheet Masks - Unscented Caviar Essence Spa Masks Packed w/Omega-3s - Nourish, Revitalize & Hydrate Your - Suitable for All Type-PEARL",
+        "star_rating": "1.0",
+        "review_title": "وحش",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEG'), ([0], [3, 4, 5], 'NEG')]"
+    },
+    {
+        "review_text": "حبيت المنتج هو منعش جدا جدا و بينعم كدا تحفه بس",
+        "scraped_at": "2025-12-23T20:00:30.281715",
+        "product_link": "https://www.amazon.eg/-/en/Starky-charcoal-facial-mask-100/dp/B08ZNVML7H/ref=sr_1_43?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-43",
+        "product_name": "Starky charcoal facial mask - 100 ml",
+        "star_rating": "5.0",
+        "review_title": "بجد تحفة ♥️",
+        "category": "Health",
+        "triplets": "[([1], [0], 'POS'), ([1], [3], 'POS'), ([1], [7], 'POS'), ([1], [9], 'POS')]"
+    },
+    {
+        "review_text": "الماسك حلو وبينضف البشره بس ماسك الفحم بتاعه اقوي في النضافه . كويس في الشد اخف من ماسك الفحم للي مش بيستحمل الشد بعد ما ينشف",
+        "scraped_at": "2025-12-23T20:00:30.350799",
+        "product_link": "https://www.amazon.eg/-/en/Starky-charcoal-facial-mask-100/dp/B08ZNVML7H/ref=sr_1_43?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-43",
+        "product_name": "Starky charcoal facial mask - 100 ml",
+        "star_rating": "4.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2], 'POS'), ([5, 6], [8, 9, 10], 'POS'), ([0], [12, 13, 14], 'POS'), ([0], [15, 16, 17, 18], 'POS')]"
+    },
+    {
+        "review_text": "المنتج منتهي الصلاحيه",
+        "scraped_at": "2025-12-23T20:00:30.468008",
+        "product_link": "https://www.amazon.eg/-/en/Starky-charcoal-facial-mask-100/dp/B08ZNVML7H/ref=sr_1_43?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-43",
+        "product_name": "Starky charcoal facial mask - 100 ml",
+        "star_rating": "1.0",
+        "review_title": "قنا",
+        "category": "Health",
+        "triplets": "[([0], [1, 2], 'NEG')]"
+    },
+    {
+        "review_text": "اوحش ماسك جبته في حياتي رميته بعد اول استخدام",
+        "scraped_at": "2025-12-23T20:02:33.028767",
+        "product_link": "https://www.amazon.eg/-/en/Starky-skin-brightening-golden-mask-100ml/dp/B0BT25R5DR/ref=sr_1_48?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-48",
+        "product_name": "Starky skin brightening golden face mask-100ml",
+        "star_rating": "1.0",
+        "review_title": "اوحش ماسك في الحياه",
+        "category": "Health",
+        "triplets": "[([1], [0], 'NEG'), ([1], [5], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك حلو بس هو بينظف البشره مش بيفتح",
+        "scraped_at": "2025-12-23T20:02:33.093463",
+        "product_link": "https://www.amazon.eg/-/en/Starky-skin-brightening-golden-mask-100ml/dp/B0BT25R5DR/ref=sr_1_48?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-48",
+        "product_name": "Starky skin brightening golden face mask-100ml",
+        "star_rating": "3.0",
+        "review_title": "حلو",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [4, 5], 'POS'), ([0], [6, 7], 'NEG')]"
+    },
+    {
+        "review_text": "هي الريحه حلوه بس مش شايف نتيجه",
+        "scraped_at": "2025-12-23T20:02:33.149241",
+        "product_link": "https://www.amazon.eg/-/en/Starky-skin-brightening-golden-mask-100ml/dp/B0BT25R5DR/ref=sr_1_48?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-48",
+        "product_name": "Starky skin brightening golden face mask-100ml",
+        "star_rating": "4.0",
+        "review_title": "ريحه بس من غير نتيجه",
+        "category": "Health",
+        "triplets": "[([1], [2], 'POS')]"
+    },
+    {
+        "review_text": "ماسك جميل فعلا ينفع قبل ما تنزلي بيوهم الناس ان بشرتك صحيه و لامعه",
+        "scraped_at": "2025-12-23T19:53:37.570238",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Acne-Prone-Skin-1Sheet/dp/B0CZCC39XQ/ref=sr_1_26?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-26",
+        "product_name": "Starville Acne Prone Skin Face Mask 1Sheet",
+        "star_rating": "4.0",
+        "review_title": "جميل",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [7, 8, 9, 10, 11, 12, 13], 'POS')]"
+    },
+    {
+        "review_text": "من احلي الشيت ماسك الي جربتها حقيقي بيرطب الوش ليومين او تلاته وبيعمل جلو فظيع فالوش يستحق التجربه",
+        "scraped_at": "2025-12-23T19:53:37.635843",
+        "product_link": "https://www.amazon.eg/-/en/Starville-Acne-Prone-Skin-1Sheet/dp/B0CZCC39XQ/ref=sr_1_26?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-26",
+        "product_name": "Starville Acne Prone Skin Face Mask 1Sheet",
+        "star_rating": "4.0",
+        "review_title": "مش هبطل اجيبه",
+        "category": "Health",
+        "triplets": "[([2, 3], [1], 'POS'), ([2, 3], [7, 8], 'POS'), ([2, 3], [13, 14], 'POS'), ([2, 3], [16, 17], 'POS')]"
+    },
+    {
+        "review_text": "الماسك عادي اوي و المنتج جاي اكتر من نصه فاضي",
+        "scraped_at": "2025-12-23T19:50:50.065939",
+        "product_link": "https://www.amazon.eg/-/en/youlicious-bright-glow-booster-Hydrating-Renewing-Detoxifying/dp/B0DSLL5P8R/ref=sr_1_18?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-18",
+        "product_name": "bright & glow booster mask - 75Ml- With Glycolic Acid-Kojic Acid- Salicylic Acid-Hyaluronic Acid-Licorice Root-Niacinamide - Cleansing & Hydrating-Renewing-Detoxifying.",
+        "star_rating": "1.0",
+        "review_title": "مش هطلبه تانى",
+        "category": "Health",
+        "triplets": "[([0], [1], 'NEU'), ([4], [8, 9], 'NEG')]"
+    },
+    {
+        "review_text": "المنتج جايلي فاضي مفيش غير ربعه فقط",
+        "scraped_at": "2025-12-23T19:50:50.148209",
+        "product_link": "https://www.amazon.eg/-/en/youlicious-bright-glow-booster-Hydrating-Renewing-Detoxifying/dp/B0DSLL5P8R/ref=sr_1_18?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-18",
+        "product_name": "bright & glow booster mask - 75Ml- With Glycolic Acid-Kojic Acid- Salicylic Acid-Hyaluronic Acid-Licorice Root-Niacinamide - Cleansing & Hydrating-Renewing-Detoxifying.",
+        "star_rating": "1.0",
+        "review_title": "Bad review",
+        "category": "Health",
+        "triplets": "[([0], [2], 'NEG'), ([0], [3, 4, 5, 6], 'NEG')]"
+    },
+    {
+        "review_text": "الماسك تحفه ينضف بعمق حبييتت",
+        "scraped_at": "2025-12-23T19:50:50.199639",
+        "product_link": "https://www.amazon.eg/-/en/youlicious-bright-glow-booster-Hydrating-Renewing-Detoxifying/dp/B0DSLL5P8R/ref=sr_1_18?crid=3SFHRC5C5VHFP&dib=eyJ2IjoiMSJ9.3UdHibPX7oGszvhi6b2NGhLXT4u3weOjzVLkYSiMOJOaVyUxb38aFehBGI-uinbdoBuhUoJVIE8aWRHE0oXsDss3YmuT1EQdQqsM_nNBdNrWrTzI9ay0qHnqpbLP5NdRvyaHZ1NKNsWSiOiK-icv4Qc4PfL_C2oAcBF16sZHq8fkmDahIeIlPBDMCXuAFbYabCWUmRNAzQG_nkjWKp2AdIwcmCUqJlQC4mSvP0vrezjo9i9aGGgq1fVd08xJYJjYu7OdUY9SAVZDG1uLCeBszZbygR5c3pqz5ws-2JLKB58.UGoM4v3R2KgYJm75wVvwk7ZOI1rwoa86U5EAgp3HRnc&dib_tag=se&keywords=face+mask+skin+care&qid=1766504058&sprefix=face+mask%2Caps%2C485&sr=8-18",
+        "product_name": "bright & glow booster mask - 75Ml- With Glycolic Acid-Kojic Acid- Salicylic Acid-Hyaluronic Acid-Licorice Root-Niacinamide - Cleansing & Hydrating-Renewing-Detoxifying.",
+        "star_rating": "5.0",
+        "review_title": "رائع",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [2, 3], 'POS')]"
+    },
+    {
+        "review_text": "المنتج حقيقي تحفه و لا غلطه للبشره المختلطه",
+        "scraped_at": "2025-12-23T19:57:08.582157",
+        "product_link": "https://www.amazon.eg/-/en/BLUEBELL-Malinda-Moistuizing-Cream-skin/dp/B0C1GWVF81/ref=sr_1_38?crid=1XJHA2EXY6ZQ6&dib=eyJ2IjoiMSJ9.lAU6sK04L7EIegYu7GIDC55WN4S2x-tkzzHvB91AbIytk4V9PWoEhvH2vM-GGSbfx7tn4u81FryqaYp3sdu2_wl3Ml0_NbSHnBpAa0X5E_FHU3EdHCMQRSVJ1ZkxGlUQcyat7KctBYifhgoumz-CLjDsSos8GSKI4DsDenEB8hS_6bE5g6gX81yRhHTj9mk-2uLTOWRmdKEK8FqyeKaqmZd99haiNuVrbJ4q3WFxYg5gP34BBIn5L3eBppQrccm-TIRCx2l1OjoytJzhCONeCKA258Y-sYuqVK-7W6iX4R8.5zGlUxtqIeYKJJOgY8VO0OAhW9xDl6JxRouC9U-ANXs&dib_tag=se&keywords=moisturizer&qid=1766511703&sprefix=moi%2Caps%2C153&sr=8-38",
+        "product_name": "BLUEBELL Malinda Moistuizing Cream For oily skin- 120 Gm",
+        "star_rating": "5.0",
+        "review_title": "تحفه",
+        "category": "Health",
+        "triplets": "[([0], [2], 'POS'), ([0], [4, 5, 6, 7], 'POS')]"
+    },
+    {
+        "review_text": "المرطب حلو بس مشكلته ان فيه عطر مالوش لزمه الاحسن انه يتشال و هيبقي برفكت و عموما بيكفي فتره كويسه حوالي 10 شهور خفيف علي البشره ( بشرتي دهنيه ) و بيخفف من جفاف البشره او القشور نسبيا في الشتا ، مناسب للاستخدام",
+        "scraped_at": "2025-12-23T19:57:08.634366",
+        "product_link": "https://www.amazon.eg/-/en/BLUEBELL-Malinda-Moistuizing-Cream-skin/dp/B0C1GWVF81/ref=sr_1_38?crid=1XJHA2EXY6ZQ6&dib=eyJ2IjoiMSJ9.lAU6sK04L7EIegYu7GIDC55WN4S2x-tkzzHvB91AbIytk4V9PWoEhvH2vM-GGSbfx7tn4u81FryqaYp3sdu2_wl3Ml0_NbSHnBpAa0X5E_FHU3EdHCMQRSVJ1ZkxGlUQcyat7KctBYifhgoumz-CLjDsSos8GSKI4DsDenEB8hS_6bE5g6gX81yRhHTj9mk-2uLTOWRmdKEK8FqyeKaqmZd99haiNuVrbJ4q3WFxYg5gP34BBIn5L3eBppQrccm-TIRCx2l1OjoytJzhCONeCKA258Y-sYuqVK-7W6iX4R8.5zGlUxtqIeYKJJOgY8VO0OAhW9xDl6JxRouC9U-ANXs&dib_tag=se&keywords=moisturizer&qid=1766511703&sprefix=moi%2Caps%2C153&sr=8-38",
+        "product_name": "BLUEBELL Malinda Moistuizing Cream For oily skin- 120 Gm",
+        "star_rating": "4.0",
+        "review_title": "تاني مرة اشتريه",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [3, 4, 5, 6], 'NEG'), ([3], [4, 5, 6], 'NEG'), ([0], [17, 18, 19], 'POS'), ([0], [23, 24, 25], 'POS'), ([0], [31, 32, 33, 34], 'POS'), ([0], [41, 42], 'POS')]"
+    },
+    {
+        "review_text": "المرطب حلو جدا للبشره الدهنيه خفيف وبيمتص بسرعه استخدمته مع غسول ماليندا برده و الاتنين تحفه الغسول قضي علي الحبوب بس يينشف البشره شويه فبستخدم المرطب بعده علي طول بستخدم المرطب مرتين يوميا في الشتا مره بعد الغسول ومره قبل ما انام ملحوظه صغيره علي المرطب لما استخدمته اول مره طلعلي فسفوستين صغيرين بس راحوا بعدها بيومين و مع الاستخدام بشرتي ارتاحت عليه وحبيته",
+        "scraped_at": "2025-12-23T19:57:08.677366",
+        "product_link": "https://www.amazon.eg/-/en/BLUEBELL-Malinda-Moistuizing-Cream-skin/dp/B0C1GWVF81/ref=sr_1_38?crid=1XJHA2EXY6ZQ6&dib=eyJ2IjoiMSJ9.lAU6sK04L7EIegYu7GIDC55WN4S2x-tkzzHvB91AbIytk4V9PWoEhvH2vM-GGSbfx7tn4u81FryqaYp3sdu2_wl3Ml0_NbSHnBpAa0X5E_FHU3EdHCMQRSVJ1ZkxGlUQcyat7KctBYifhgoumz-CLjDsSos8GSKI4DsDenEB8hS_6bE5g6gX81yRhHTj9mk-2uLTOWRmdKEK8FqyeKaqmZd99haiNuVrbJ4q3WFxYg5gP34BBIn5L3eBppQrccm-TIRCx2l1OjoytJzhCONeCKA258Y-sYuqVK-7W6iX4R8.5zGlUxtqIeYKJJOgY8VO0OAhW9xDl6JxRouC9U-ANXs&dib_tag=se&keywords=moisturizer&qid=1766511703&sprefix=moi%2Caps%2C153&sr=8-38",
+        "product_name": "BLUEBELL Malinda Moistuizing Cream For oily skin- 120 Gm",
+        "star_rating": "5.0",
+        "review_title": "تحفة",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([0], [5], 'POS'), ([0], [6, 7], 'POS'), ([14], [15], 'POS'), ([16], [17, 18, 19], 'POS'), ([16], [21, 22], 'NEG'), ([45], [50, 51, 52], 'NEG'), ([45], [60, 61, 62, 63], 'POS')]"
+    },
+    {
+        "review_text": "استخدمت الغسول اسبوع من بعدها بشرتي اتحسنت مش بيعمل التهابات و لا ثقيل علي البشره خفيف وبيعالج الحبوب بشكل ملحوظ و في مده قصيره و مش بيحتاج استخدم كثير نقطه كافيه",
+        "scraped_at": "2025-12-24T23:22:43.142826",
+        "product_link": "https://www.amazon.eg/-/en/Neutrogena-Cleansing-activates-impurities-providing/dp/B07MTQ7BNT/ref=sr_1_7?crid=2HJX4LNMOT6ZU&dib=eyJ2IjoiMSJ9.MuQL-PtlGoD34xEqvlU7C3mnFUBni8RQcCuZbUR5oRQCn_XsabqsujLedE4Z-TGkOCmQHbewvhxrqhDe-zRH3ksybRkCXSjOFruvsaA6r628dCOB85QIBU74fcfOdGMrY1SRPRFxZr4ebtDo1xn2Prw6YHCbipM-Zz3s9vPAO8RVDygoWVfFIQ0YvSU1H2wHzrTcYlqmhxMgQPeI1uAVq3nA5MCdEXeSTqvymhcaXt5fD1LNAWSPzLxC-DLXbWtRW3c16zUG8UT5LZpijSblFAfAZ_CWPsdR3ksVNSsaU1M.ucE9dar5CuVgmgeOROpf7A5NX0-6nRW6ErFZRDsj64Y&dib_tag=se&keywords=cleanser&qid=1766572676&sprefix=cleanser%2Caps%2C173&sr=8-7",
+        "product_name": "Neutrogena Cleansing Water Gel Hydro Boost Normal To Dry Skin, activates with water to remove impurities while providing the skin with a boost of hydration, 200ml",
+        "star_rating": "5.0",
+        "review_title": "يهبل وياثر على الحبوب بشكل ملحوب",
+        "category": "Health",
+        "triplets": "[([5], [6], 'POS'), ([1], [7, 8, 9], 'POS'), ([1], [11, 12, 13, 14], 'POS'), ([1], [15], 'POS'), ([1], [16, 17], 'POS'), ([1], [25, 26, 27, 28], 'POS')]"
+    },
+    {
+        "review_text": "الماسك جميل جدا ، ملمس ناعم ولطيف وخفيف علي البشره ، بيتفرد علي الجلد بنعومه وبيغطي مساحه كويسه ، قوامه ممتاز مش سايب ، ريحته مقبوله مش مزعجه",
+        "scraped_at": "2025-12-23T19:44:26.737499",
+        "product_link": "https://www.amazon.eg/Aloe-Vera-Soothing-200ML-Green/dp/B0FT24VSL1/ref=sr_1_4_sspa?crid=1XJHA2EXY6ZQ6&dib=eyJ2IjoiMSJ9.lAU6sK04L7EIegYu7GIDC55WN4S2x-tkzzHvB91AbIytk4V9PWoEhvH2vM-GGSbfx7tn4u81FryqaYp3sdu2_wl3Ml0_NbSHnBpAa0X5E_FHU3EdHCMQRSVJ1ZkxGlUQcyat7KctBYifhgoumz-CLjDsSos8GSKI4DsDenEB8hS_6bE5g6gX81yRhHTj9mk-2uLTOWRmdKEK8FqyeKaqmZd99haiNuVrbJ4q3WFxYg5gP34BBIn5L3eBppQrccm-TIRCx2l1OjoytJzhCONeCKA258Y-sYuqVK-7W6iX4R8.5zGlUxtqIeYKJJOgY8VO0OAhW9xDl6JxRouC9U-ANXs&dib_tag=se&keywords=moisturizer&qid=1766511703&sprefix=moi,aps,153&sr=8-4-spons&aref=uEod2N96I1&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "product_name": "Aloe Vera Soothing Gel 200ML(Green) – Hydrating Face & Body Moisturizer, After Sun Relief, Skin Cooling & Nourishing Gel for Dry, Sensitive, and Irritated Skin, Pure Aloe Extract",
+        "star_rating": "5.0",
+        "review_title": "منتج ممتاز",
+        "category": "Health",
+        "triplets": "[([0], [1], 'POS'), ([4], [5], 'POS'), ([4], [6], 'POS'), ([4], [7, 8, 9], 'POS'), ([0], [11, 12, 13, 14], 'POS'), ([0], [15, 16, 17], 'POS'), ([0], [19, 20], 'POS'), ([19], [20], 'POS'), ([19], [21, 22], 'POS'), ([0], [24, 25], 'POS'), ([24], [25], 'POS'), ([24], [26, 27], 'POS')]"
+    }
+]

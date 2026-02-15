@@ -96,3 +96,34 @@ def create_class_weights(num_classes):
         weight = torch.tensor([1.0, 2.0, 2.0, 2.0, 1.0, 1.0])
     
     return weight
+
+
+def get_dataset_path(dataset_dir, dataset_name):
+    """
+    Get the correct path for a dataset, handling both old and new data structures.
+    
+    For Egyptian dialect datasets (egyptian_health, egyptian_fashion, egyptian_electronics, egyptian_combined),
+    it constructs the path to the egyptian_dialect folder.
+    
+    Args:
+        dataset_dir (str): Base dataset directory path.
+        dataset_name (str): Name of the dataset.
+        
+    Returns:
+        str: Full path to the dataset directory.
+    """
+    # Map Egyptian dialect dataset names to their folder structure
+    egyptian_datasets = {
+        'egyptian_health': 'health',
+        'egyptian_fashion': 'fashion',
+        'egyptian_electronics': 'electronics',
+        'egyptian_combined': 'combined'
+    }
+    
+    if dataset_name in egyptian_datasets:
+        # Use the egyptian_dialect folder structure
+        category = egyptian_datasets[dataset_name]
+        return os.path.join('datasets', 'egyptian_dialect', category)
+    else:
+        # Use the standard folder structure (ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC)
+        return os.path.join(dataset_dir, dataset_name)

@@ -22,6 +22,7 @@ from data.dataset import ASTE_End2End_Dataset, aste_collate_fn
 from data.vocab import load_vocab
 from tagging.span_tagging import create_label_maps, create_sentiment_maps
 from training.evaluate import evaluate_model, print_evaluation_results
+from utils.helpers import get_dataset_path
 from utils.config import get_prediction_args
 
 
@@ -54,7 +55,7 @@ def predict(
     output_file: Optional[str] = None,
     batch_size: int = 16,
     device: str = 'cuda',
-    pretrained_model: str = 'aubmindlab/bert-base-arabertv2',
+    pretrained_model: str = 'UBC-NLP/MARBERT',
     dataset_dir: str = './datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC'
 ) -> Tuple:
     """
@@ -86,8 +87,8 @@ def predict(
     # Initialize tokenizer
     tokenizer = AutoTokenizer.from_pretrained(pretrained_model)
     
-    # Build vocabulary
-    dataset_path = os.path.join(dataset_dir, dataset)
+    # Build vocabulary - use helper function to get correct dataset path
+    dataset_path = get_dataset_path(dataset_dir, dataset)
     vocab = load_vocab(dataset_dir=dataset_path)
 
     # Create label and sentiment mappings

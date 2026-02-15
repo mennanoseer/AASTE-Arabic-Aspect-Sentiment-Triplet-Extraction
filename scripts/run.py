@@ -17,7 +17,7 @@ from data.dataset import ASTE_End2End_Dataset, aste_collate_fn
 from data.vocab import load_vocab
 from tagging.span_tagging import create_label_maps, create_sentiment_maps
 from training.evaluate import evaluate_model, print_evaluation_results
-from utils.helpers import count_parameters, ensure_dir, set_random_seed, create_class_weights
+from utils.helpers import count_parameters, ensure_dir, set_random_seed, create_class_weights, get_dataset_path
 from training.training_utils import create_optimizer
 from utils.config import get_training_args
 
@@ -82,8 +82,8 @@ def train_and_evaluate(args, save_with_seed=False):
     # Initialize tokenizer
     tokenizer = AutoTokenizer.from_pretrained(args.pretrained_model)
     
-    # Setup directories
-    dataset_path = os.path.join(args.dataset_dir, args.dataset)
+    # Setup directories - use helper function to get correct dataset path
+    dataset_path = get_dataset_path(args.dataset_dir, args.dataset)
     model_save_dir = os.path.join(args.saved_dir, args.dataset)
     ensure_dir(model_save_dir)
     
@@ -267,7 +267,19 @@ def reproduce_best_results():
     best_seeds = {
         '16res-3D-True': 432,
         '16res-2D-True': 432,
-        '16res-1D-True': 432
+        '16res-1D-True': 432,
+        'egyptian_health-3D-True': 432,
+        'egyptian_health-2D-True': 432,
+        'egyptian_health-1D-True': 432,
+        'egyptian_fashion-3D-True': 432,
+        'egyptian_fashion-2D-True': 432,
+        'egyptian_fashion-1D-True': 432,
+        'egyptian_electronics-3D-True': 432,
+        'egyptian_electronics-2D-True': 432,
+        'egyptian_electronics-1D-True': 432,
+        'egyptian_combined-3D-True': 432,
+        'egyptian_combined-2D-True': 432,
+        'egyptian_combined-1D-True': 432
     }
     
     results_summary = {}
@@ -400,10 +412,10 @@ if __name__ == '__main__':
     # Uncomment the function you want to run:
     
     # Option 1: Run a single experiment with default settings
-    # run_single_experiment()
+    run_single_experiment()
     
     # Option 2: Reproduce best results with optimal seeds
-    reproduce_best_results()
+    # reproduce_best_results()
     
     # Option 3: Run random hyperparameter search
     # random_search_hyperparameters(num_trials=20)
