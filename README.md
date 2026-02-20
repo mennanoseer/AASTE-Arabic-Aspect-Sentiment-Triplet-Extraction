@@ -1,6 +1,6 @@
 # AASTE: Arabic Aspect-Sentiment Triplet Extraction
 
-A PyTorch implementation of Aspect-Sentiment Triplet Extraction (ASTE) for Arabic text, based on span-based tagging schemes. This project extracts triplets of (aspect term, opinion term, sentiment) from Arabic restaurant reviews.
+A PyTorch implementation of Aspect-Sentiment Triplet Extraction (ASTE) for Arabic text, based on span-based tagging schemes. This project extracts triplets of (aspect term, opinion term, sentiment) from Arabic text, supporting both Modern Standard Arabic (MSA) restaurant reviews and Egyptian dialect product reviews.
 
 ## Overview
 
@@ -57,11 +57,17 @@ AASTE-Arabic-Aspect-Sentiment-Triplet-Extraction/
 │   ├── DataValidation.ipynb  # Data validation
 │   └── spanTaggingExample.ipynb  # Span tagging examples
 ├── datasets/                  # Dataset files
-│   └── ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/
-│       └── 16res/
-│           ├── train_triplets.txt    # Training dataset
-│           ├── dev_triplets.txt      # Validation dataset
-│           └── test_triplets.txt     # Test dataset
+│   ├── ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/
+│   │   └── 16res/
+│   │       ├── train_triplets.txt    # Training dataset
+│   │       ├── dev_triplets.txt      # Validation dataset
+│   │       └── test_triplets.txt     # Test dataset
+│   └── egyptian_dialect/      # Egyptian dialect dataset
+│       ├── health/           # Health & personal care reviews
+│       ├── fashion/          # Fashion & clothing reviews
+│       ├── electronics/      # Electronics reviews
+│       ├── combined/         # All categories merged
+│       └── README.md         # Dataset documentation
 ├── outputs/                   # Model outputs and results
 │   ├── models/               # Saved model checkpoints
 │   ├── best_models/          # Best performing models
@@ -87,6 +93,8 @@ pip install -r requirements.txt
 
 ### Training
 
+#### Training on 16res Dataset (MSA Restaurant Reviews)
+
 Run training with default parameters:
 ```bash
 python scripts/run.py
@@ -94,14 +102,36 @@ python scripts/run.py
 
 Or with custom parameters:
 ```bash
-python scripts/run.py --dataset 16res --version 3D --hidden_dim 200 --num_epoch 100 --batch_size 16 --lr 1e-3 --bert_lr 2e-5
+python scripts/run.py --dataset 16res --version 3D --hidden_dim 200 --num_epoch 100 --batch_size 64 --lr 1e-3 --bert_lr 2e-5
+```
+
+#### Training on Egyptian Dialect Dataset
+
+Train on individual product categories:
+```bash
+python scripts/run.py --dataset egyptian_health --num_epoch 100 --batch_size 64
+python scripts/run.py --dataset egyptian_fashion --num_epoch 100 --batch_size 64
+python scripts/run.py --dataset egyptian_electronics --num_epoch 100 --batch_size 64
+```
+
+Train on all categories combined:
+```bash
+python scripts/run.py --dataset egyptian_combined --num_epoch 100 --batch_size 64
 ```
 
 ### Evaluation
 
-Evaluate a trained model:
+Evaluate a trained model on 16res:
 ```bash
 python scripts/predict.py --load_model_path outputs/models/your_model.pt
+```
+
+Evaluate on Egyptian dialect dataset:
+```bash
+python scripts/predict.py \
+    --model_path outputs/models/egyptian_health/egyptian_health_3D_weightFalse_best.pkl \
+    --dataset egyptian_health \
+    --batch_size 16
 ```
 
 ### Interactive Inference
@@ -153,13 +183,55 @@ Where:
 | الطعام رديء | الطعام (food) | رديء (bad) | NEG |
 | مطعم المدينة هو الأفضل | مطعم المدينة (Almadina restaurant) | الأفضل (the best) | POS |
 
-### Dataset Statistics
+## Datasets
 
-- **Domain**: Restaurant reviews (translated from English)
-- **Language**: Arabic
+This project includes two Arabic datasets for aspect-sentiment triplet extraction:
+
+### 1. 16res Dataset (Modern Standard Arabic)
+
+- **Domain**: Restaurant reviews
+- **Source**: ASTE-Data-V2 (EMNLP 2020) translated to Arabic
+- **Language**: Modern Standard Arabic (MSA)
 - **Total samples**: ~850+ (varies after data preparation)
 - **Annotation scheme**: Aspect-Opinion-Sentiment triplets
 - **Average sentence length**: 10-15 tokens
+- **Location**: `datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/16res/`
+
+### 2. Egyptian Dialect Dataset
+
+- **Domain**: Product reviews (Health, Fashion, Electronics)
+- **Source**: Amazon Egypt (amazon.eg)
+- **Language**: Egyptian Arabic dialect
+- **Collection Period**: December 2025
+- **Format**: JSON with triplet annotations + triplet text files
+- **Location**: `datasets/egyptian_dialect/`
+
+#### Egyptian Dialect Dataset Statistics
+
+| Category | Training | Development | Test | Total |
+|----------|----------|-------------|------|-------|
+| Health | 629 | 134 | 136 | 899 |
+| Fashion | TBD | TBD | TBD | TBD |
+| Electronics | TBD | TBD | TBD | TBD |
+| Combined | TBD | TBD | TBD | TBD |
+
+**Data Split**: 70% training, 15% development, 15% test (random seed: 42)
+
+#### Preparing Egyptian Dialect Data
+
+To prepare individual category data:
+```bash
+python scripts/prepare_egyptian_data.py --category health
+python scripts/prepare_egyptian_data.py --category fashion
+python scripts/prepare_egyptian_data.py --category electronics
+```
+
+To merge all categories:
+```bash
+python scripts/prepare_egyptian_data.py --category combined
+```
+
+For detailed information about the Egyptian dialect dataset, see [datasets/egyptian_dialect/README.md](datasets/egyptian_dialect/README.md).
 
 ## Configuration
 
@@ -216,6 +288,7 @@ The model is evaluated on:
 - **Arabic Normalization**: Handles different Arabic character forms, diacritics removal
 - **AraBERT Integration**: Uses pre-trained Arabic BERT for better Arabic understanding
 - **Subword Handling**: Proper mapping between BERT subwords and original tokens
+- **Dialect Support**: Works with both Modern Standard Arabic (MSA) and Egyptian dialect
 
 ### Span-Based Approach
 - **Boundary Features**: Uses start and end token representations
@@ -227,6 +300,19 @@ The model is evaluated on:
 - **Conflict Resolution**: Handles overlapping predictions
 - **Multiple Patterns**: Supports aspect-opinion and opinion-aspect patterns
 
+
+## Data Sources
+
+### 16res Dataset
+- Translated from ASTE-Data-V2 (EMNLP 2020) English dataset
+- Restaurant domain reviews
+- Modern Standard Arabic (MSA)
+
+### Egyptian Dialect Dataset
+- Scraped from Amazon Egypt (amazon.eg)
+- Product reviews across multiple categories
+- Egyptian Arabic dialect with colloquial expressions
+- Collected and annotated by project team
 
 ## Related Work
 
@@ -259,9 +345,12 @@ For questions or issues, please open an issue on GitHub or contact the maintaine
 ### Common Issues
 
 1. **CUDA out of memory**: Reduce batch size (`--batch_size 8`)
-2. **Missing data files**: Ensure train_triplets.txt and dev_triplets.txt exist in `datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/16res/`
+2. **Missing data files**: 
+   - For 16res: Ensure files exist in `datasets/ASTE-Data-V2-EMNLP2020_TRANSLATED_TO_ARABIC/16res/`
+   - For Egyptian dialect: Run `python scripts/prepare_egyptian_data.py --category <category_name>`
 3. **Tokenizer issues**: Verify AraBERT model is correctly downloaded
 4. **Performance issues**: Try different seeds or adjust learning rates
+5. **Egyptian dialect data**: Use `scripts/prepare_egyptian_data.py` to prepare data from JSON format
 
 ### System Requirements
 
@@ -273,4 +362,4 @@ For questions or issues, please open an issue on GitHub or contact the maintaine
 
 ---
 
-**Note**: This project is designed specifically for Arabic text processing. For other languages, consider adapting the normalization functions and using appropriate pre-trained models.
+**Note**: This project supports both Modern Standard Arabic (MSA) and Egyptian Arabic dialect. The model can handle various Arabic text styles including formal restaurant reviews and informal product reviews with colloquial expressions. For other languages, consider adapting the normalization functions and using appropriate pre-trained models.
